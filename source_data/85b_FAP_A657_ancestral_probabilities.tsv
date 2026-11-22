@@ -1,0 +1,7 @@
+biological_node	iqtree_node	site	ML_state	p_A	p_D	p_G	p_S	p_max
+FAP_lungfish_tetrapod	Node4	799	A	0.99392	0.00427	0.00018	0.00107	0.99392
+DPP4_lungfish_tetrapod	Node10	799	D	0.0	0.99999	0.0	0.0	0.99999
+FAP_DPP4_predup	Node10	799	D	0.0	0.99999	0.0	0.0	0.99999
+teleost_four	Node18	799	D	0.0	1.0	0.0	0.0	1.0
+gar_teleost	Node17	799	D	0.0	1.0	0.0	0.0	1.0
+all_vertebrate_FAPDPP4	Node14	799	D	0.0	0.99976	0.0	0.0	0.99976

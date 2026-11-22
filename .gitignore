@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+.env
+*.h5ad
+*.h5
+*.loom
+*.mtx
+raw_data/
+intermediate/

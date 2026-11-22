@@ -1,0 +1,5 @@
+hypothesis	logL	deltaL	p_AU	status
+unconstrained_ML	-21248.08215	0.0	1.0	accepted
+minimal_lineage_specific_constraints	-21248.08215	1e-06	1.0	accepted; indistinguishable from ML
+full_lineage_specific_constraints	-21251.08908	3.0069	0.38	accepted
+forced_ancient_FAP_DPP4_orthology	-21413.85501	165.77	7.66e-08	rejected

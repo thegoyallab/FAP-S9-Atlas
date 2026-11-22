@@ -1,0 +1,8 @@
+species	architecture	chromosome	orientation	intergenic_bp	specificity_state
+coelacanth	single FAP/DPP4-like locus	9	plus		D
+lungfish	adjacent DPP4-like + FAP	6.part0	minus/minus	358064.0	DPP4-like D; FAP A
+Xenopus	adjacent FAP + DPP4	9	plus/plus	41803.0	DPP4 D; FAP A
+chicken	adjacent FAP + DPP4	7	plus/plus	17740.0	DPP4 D; FAP A
+human	adjacent DPP4 + FAP	2	minus/minus	96468.0	DPP4 D; FAP A
+newt	distinct full-length FAP-like and DPP4-like proteins	not audited	NA		DPP4 D; FAP A
+caecilian	distinct full-length FAP-like and DPP4-like proteins	not audited	NA		DPP4 D; FAP A

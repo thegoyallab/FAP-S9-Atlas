@@ -1,0 +1,7 @@
+CELLxGENE Census release: 2025-11-08
+cellxgene-census: 1.18.0
+Python (analysis): Python 3.12.3
+IQ-TREE: 3.1.4
+PAML/codeml: 4.9j
+MAFFT: 7.505
+ClipKIT: 2.14.0

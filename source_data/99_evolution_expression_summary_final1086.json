@@ -1,0 +1,64 @@
+{
+  "tag": "final1086",
+  "label": "full 1086-dataset Census extraction",
+  "n_strata": 1431,
+  "sequence_expression_rho": -0.08494208494208495,
+  "permutation_p_two_sided": 0.7076,
+  "permutations": 9999,
+  "contrast": {
+    "observed_FAP_DPP4_minus_other_sister_mean": -0.5293153767272997,
+    "bootstrap_q025": -0.5966989223031116,
+    "bootstrap_median": -0.5226159335767055,
+    "bootstrap_q975": -0.4216273756152128,
+    "fraction_bootstrap_contrast_below_zero": 1.0,
+    "n_strata": 1431,
+    "n_tissues": 44,
+    "bootstrap_replicates": 5000
+  },
+  "sister_pairs": [
+    {
+      "pair": "FAP-DPP4",
+      "sequence_identity_pct": 52.047556,
+      "observed_rho": 0.1354036139797821,
+      "bootstrap_q025": 0.0740120942366725,
+      "bootstrap_median": 0.1369983718998441,
+      "bootstrap_q975": 0.2103914386465374,
+      "rank_among_36_pairs_desc": 28,
+      "duplication_history": "lineage-specific; sarcopterygian tandem pair plus separate teleost duplication",
+      "catalytic_functional_change": "FAP specificity neofunctionalization; D->A at FAP657-equivalent"
+    },
+    {
+      "pair": "DPP8-DPP9",
+      "sequence_identity_pct": 60.743322,
+      "observed_rho": 0.6309227512465996,
+      "bootstrap_q025": 0.5703309575372625,
+      "bootstrap_median": 0.6314660268413416,
+      "bootstrap_q975": 0.6958330006837673,
+      "rank_among_36_pairs_desc": 5,
+      "duplication_history": "early vertebrate duplication",
+      "catalytic_functional_change": "canonical catalytic architecture retained"
+    },
+    {
+      "pair": "DPP6-DPP10",
+      "sequence_identity_pct": 52.578616,
+      "observed_rho": 0.7846771361670994,
+      "bootstrap_q025": 0.6100354177810522,
+      "bootstrap_median": 0.7800667564128325,
+      "bootstrap_q975": 0.8734502747612396,
+      "rank_among_36_pairs_desc": 1,
+      "duplication_history": "early vertebrate duplication",
+      "catalytic_functional_change": "ancestral catalytic Ser retained; crown DPP6 D and DPP10 G; intermediate path unresolved"
+    },
+    {
+      "pair": "PREP-PREPL",
+      "sequence_identity_pct": 23.482428,
+      "observed_rho": 0.5785570847075463,
+      "bootstrap_q025": 0.4515483861229026,
+      "bootstrap_median": 0.573265263413224,
+      "bootstrap_q975": 0.678253494869703,
+      "rank_among_36_pairs_desc": 8,
+      "duplication_history": "early vertebrate duplication",
+      "catalytic_functional_change": "catalytic architecture retained with paralog specialization"
+    }
+  ]
+}

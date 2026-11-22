@@ -1,0 +1,8 @@
+collection_id,disease,n_donors,median_FAP,median_DPP4,median_double_positive,median_axis,collection_name,collection_doi
+3f7c572c-cd73-4b51-a313-207c7f20f188,breast cancer,22,0.0769230769230769,0.04249697729613535,0.0,0.05608584440701225,Dissecting novel myeloid-derived cell states through single-cell RNA-Seq and its impact on clinical outcome across tumor types,10.1038/s41467-024-49916-4
+3f7c572c-cd73-4b51-a313-207c7f20f188,normal,2,0.0,0.0,0.0,0.0,Dissecting novel myeloid-derived cell states through single-cell RNA-Seq and its impact on clinical outcome across tumor types,10.1038/s41467-024-49916-4
+4195ab4c-20bd-4cd3-8b3d-65601277e731,normal,129,0.2681518151815181,0.068693009118541,0.0348387096774193,0.1864211737629459,A spatially resolved single cell genomic atlas of the adult human breast,10.1038/s41586-023-06252-9
+77446b76-1c2d-4a71-8e59-0efd4374d98e,normal,2,0.11947151424287855,0.02137951294622955,0.0048776287531909004,0.09809200129664895,Single-nucleus chromatin accessibility and transcriptomic map of breast tissues of women of diverse genetic ancestry,10.1038/s41591-024-03011-9
+9432ae97-4803-4b9f-8f64-2b41e42ad3cb,breast cancer,42,0.3934108527131783,0.03446088794926,0.0213298162634164,0.3434496124031008,Human Breast Cancer Single Cell Atlas,10.1101/2025.03.13.643025
+99f1515b-46a2-4bc4-94c3-f62659dc1eb4,normal,16,0.1872066752844449,0.0217980809345014,0.00701522898455105,0.174367350266103,A human breast atlas integrating single-cell proteomics and transcriptomics,10.1016/j.devcel.2022.05.003
+a96133de-e951-4e2d-ace6-59db8b3bfb1d,breast cancer,5,0.3477088948787061,0.0385093167701863,0.0242587601078167,0.3234501347708894,HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment,10.1038/s41591-024-03215-z

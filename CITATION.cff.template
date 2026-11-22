@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code or source data, please cite the associated manuscript."
+title: "FAP / human S9 peptidase atlas: single-cell, spatial and evolutionary analysis"
+version: "1.0.0"
+date-released: "2026-11-22"
+authors:
+  - family-names: "[FINAL AUTHOR LIST REQUIRED]"
+repository-code: "https://github.com/thegoyallab/FAP-S9-Atlas"

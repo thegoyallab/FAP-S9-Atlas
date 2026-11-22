@@ -1,0 +1,5 @@
+pair	sequence_identity_pct	observed_rho	bootstrap_q025	bootstrap_median	bootstrap_q975	rank_among_36_pairs_desc	duplication_history	catalytic_functional_change
+FAP-DPP4	52.047556	0.1354036139797821	0.0740120942366725	0.1369983718998441	0.2103914386465374	28	lineage-specific; sarcopterygian tandem pair plus separate teleost duplication	FAP specificity neofunctionalization; D->A at FAP657-equivalent
+DPP8-DPP9	60.743322	0.6309227512465996	0.5703309575372625	0.6314660268413416	0.6958330006837673	5	early vertebrate duplication	canonical catalytic architecture retained
+DPP6-DPP10	52.578616	0.7846771361670994	0.6100354177810522	0.7800667564128325	0.8734502747612396	1	early vertebrate duplication	ancestral catalytic Ser retained; crown DPP6 D and DPP10 G; intermediate path unresolved
+PREP-PREPL	23.482428	0.5785570847075463	0.4515483861229026	0.573265263413224	0.678253494869703	8	early vertebrate duplication	catalytic architecture retained with paralog specialization
