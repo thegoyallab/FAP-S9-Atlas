@@ -4,6 +4,7 @@ Public URL: https://github.com/thegoyallab/FAP-S9-Atlas
 Branch: main
 Initial frozen analysis commit: 9cacc29
 Local metadata commit before GitHub publication: 7616a42
+GitHub complete-release commit: c1d5045da8dd91e5307a5e8ca7174cc6da24d2c3
 Commit identity: Thegoyallab <pankaj_bio@curaj.ac.in>
 Repository visibility: public
-Publication status: PUBLIC REPOSITORY CREATED; CONTENT UPLOAD IN PROGRESS
+Publication status: COMPLETE
