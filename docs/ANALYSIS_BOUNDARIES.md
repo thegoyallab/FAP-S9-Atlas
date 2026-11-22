@@ -7,3 +7,6 @@
 - Spatial affinity is not cell identity; Visium spots are multicellular.
 - The epithelial-interface hypothesis was tested and was not supported.
 - Sequence divergence is not interpreted as causing expression divergence.
+
+## FAP targetability
+The v2 targetability analyses distinguish target enrichment, stromal biological state, benign-remodeling background and cellular selectivity. No composite clinical targetability score is calculated, and RNA abundance is not interpreted as PET uptake, cell-surface protein density or radioligand dose. See `docs/TARGETABILITY_ANALYSIS.md`.

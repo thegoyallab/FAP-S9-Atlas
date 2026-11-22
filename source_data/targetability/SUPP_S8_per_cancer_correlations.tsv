@@ -1,0 +1,37 @@
+cancer_group	x	y	n	rho	p
+adrenal neuroblastoma	FAP_fraction	core_remodeling_score	11	0.3090909090909091	0.35502843970150694
+adrenal neuroblastoma	FAP_fraction	accessory_score	11	0.21818181818181823	0.5192482475549817
+adrenal neuroblastoma	FAP_log2_cpm	core_remodeling_score	11	0.24545454545454545	0.4669223669820161
+adrenal neuroblastoma	FAP_log2_cpm	accessory_score	11	0.09090909090909091	0.7903727377532903
+breast cancer	FAP_fraction	core_remodeling_score	150	0.24129115301367615	0.002934100836501709
+breast cancer	FAP_fraction	accessory_score	150	0.11363369684661159	0.16618414129547346
+breast cancer	FAP_log2_cpm	core_remodeling_score	150	0.09897862127205653	0.22818160887300176
+breast cancer	FAP_log2_cpm	accessory_score	150	-0.012258322592115204	0.8816460861700927
+colorectal cancer	FAP_fraction	core_remodeling_score	67	0.13259756956512536	0.28477041996232894
+colorectal cancer	FAP_fraction	accessory_score	67	-0.04089330685054695	0.7424849421116818
+colorectal cancer	FAP_log2_cpm	core_remodeling_score	67	0.2623513448798787	0.03197302251460949
+colorectal cancer	FAP_log2_cpm	accessory_score	67	0.04465684269560086	0.7197206418148847
+gastric cancer	FAP_fraction	core_remodeling_score	16	0.3323529411764706	0.2084998279822082
+gastric cancer	FAP_fraction	accessory_score	16	0.39999999999999997	0.12475042359840005
+gastric cancer	FAP_log2_cpm	core_remodeling_score	16	-0.07058823529411765	0.7950393023376281
+gastric cancer	FAP_log2_cpm	accessory_score	16	-0.02058823529411765	0.9396737397890448
+lung cancer	FAP_fraction	core_remodeling_score	166	0.10884664349286022	0.16273104020090093
+lung cancer	FAP_fraction	accessory_score	166	-0.1449979869411203	0.06233370886256179
+lung cancer	FAP_log2_cpm	core_remodeling_score	166	0.08698178670042173	0.26513888839366906
+lung cancer	FAP_log2_cpm	accessory_score	166	-0.2516453959411813	0.0010735055754395927
+oral cavity cancer	FAP_fraction	core_remodeling_score	11	0.22727272727272727	0.501535667604937
+oral cavity cancer	FAP_fraction	accessory_score	11	-0.5181818181818182	0.1024915397909638
+oral cavity cancer	FAP_log2_cpm	core_remodeling_score	11	0.2545454545454546	0.45003657688882837
+oral cavity cancer	FAP_log2_cpm	accessory_score	11	-0.43636363636363645	0.17966487658001118
+oropharyngeal cancer	FAP_fraction	core_remodeling_score	10	0.17575757575757575	0.6271883447764846
+oropharyngeal cancer	FAP_fraction	accessory_score	10	-0.7454545454545454	0.013330146315440054
+oropharyngeal cancer	FAP_log2_cpm	core_remodeling_score	10	0.3939393939393939	0.25999776683488757
+oropharyngeal cancer	FAP_log2_cpm	accessory_score	10	-0.309090909090909	0.38484123026128353
+ovarian cancer	FAP_fraction	core_remodeling_score	25	-0.43538461538461537	0.029606414240314072
+ovarian cancer	FAP_fraction	accessory_score	25	-0.18846153846153846	0.3669574194662061
+ovarian cancer	FAP_log2_cpm	core_remodeling_score	25	-0.4923076923076923	0.012421062192862629
+ovarian cancer	FAP_log2_cpm	accessory_score	25	-0.17153846153846153	0.4122815839225631
+prostate cancer	FAP_fraction	core_remodeling_score	24	0.6234782608695651	0.0011336973606633715
+prostate cancer	FAP_fraction	accessory_score	24	0.5034782608695652	0.01213727553958716
+prostate cancer	FAP_log2_cpm	core_remodeling_score	24	0.5347826086956522	0.007093267681508553
+prostate cancer	FAP_log2_cpm	accessory_score	24	0.33652173913043476	0.1078562011927474

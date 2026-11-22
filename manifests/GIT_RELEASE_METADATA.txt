@@ -1,12 +1,6 @@
-Repository owner: thegoyallab
-Repository name: FAP-S9-Atlas
-Public URL: https://github.com/thegoyallab/FAP-S9-Atlas
-Branch: main
-Initial complete-release commit: c1d5045da8dd91e5307a5e8ca7174cc6da24d2c3
-Evolution expansion: full 129-file evidence set archived at archives/Evolution_Reproducibility_FINAL.tar.gz
-Evolution archive SHA256: c3d4fbfff5d819ecc1acfae4ae3a606b6cb80c5c205bf9db3feeed9ef2aaac85
-Browseable evolution assets: Figure 5 panels A-G, Supplementary Figures S1-S7, figure legends/source maps/table notes
-Commit identity: Thegoyallab <pankaj_bio@curaj.ac.in>
-Repository visibility: public
-Publication status: COMPLETE
-GitHub evolution-expansion commit: 3da9bad5347a26131e58e32213a95a91b54d7a9d
+release_name=FAP_S9_Atlas_release_v2_targetability
+repository=https://github.com/thegoyallab/FAP-S9-Atlas
+base_commit=a975ce97ffe9392b0d30729ff8ad6e8e0689b1c5
+branch=main
+manuscript_title=Evolutionary specialization and single-cell mapping reveal conserved FAP-dominant stromal remodeling across human cancers
+license_status=decision_required

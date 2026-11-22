@@ -14,3 +14,6 @@ Final phylogenetic, ASR and codon-model results are frozen. The corrected DPP6/D
 
 ## Paths
 The frozen scripts preserve some project-local paths for audit fidelity. For public reuse, set a local project root and update input paths to the downloaded public datasets. The release contains source tables sufficient to verify the reported main-figure numerical summaries without redistributing raw third-party data.
+
+## Targetability extension (v2)
+The consolidated Nature Communications v8 analysis adds organ-concordant tumor-normal FAP enrichment, cross-cancer paired FAP-only/DPP4-only state contrasts, same-study malignant-versus-benign lung remodeling, abundance-versus-state coupling, cellular selectivity and an explicitly non-composite integrated targetability map. Final scripts are under `scripts/targetability/`; compact figure-level source data are under `source_data/targetability/`. See `docs/TARGETABILITY_ANALYSIS.md`.

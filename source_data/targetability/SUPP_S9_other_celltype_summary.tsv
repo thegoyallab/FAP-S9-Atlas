@@ -1,0 +1,1012 @@
+context	cell_type	n_donors	n_collections	median_log2_cpm	median_pct_detected	q25_log2_cpm	q75_log2_cpm	robust
+healthy	Axl+ dendritic cell, human	65	2	0.0	0.0	0.0	0.0	True
+healthy	B cell	2167	87	0.0	0.0	0.0	0.0	True
+healthy	B-1 B cell	17	1	0.0	0.0	0.0	0.0	False
+healthy	B-1a B cell	9	1	0.0	0.0	0.0	0.0	False
+healthy	B-1b B cell	9	1	0.0	0.0	0.0	0.0	False
+healthy	B-2 B cell	19	1	0.0	0.0	0.0	0.0	False
+healthy	BEST4+ colonocyte	16	1	0.0	0.0	0.0	0.0	False
+healthy	BEST4+ enterocyte	54	4	0.0	0.0	0.0	0.0	True
+healthy	Be cell	65	2	0.0	0.0	0.0	0.0	True
+healthy	Bergmann glial cell	24	4	0.5528559934318406	0.19935210565661599	0.0	4.138144366361491	True
+healthy	CD14-low, CD16-positive monocyte	1639	11	0.0	0.0	0.0	0.0	True
+healthy	CD14-positive monocyte	1686	13	0.0	0.0	0.0	0.0	True
+healthy	CD14-positive, CD16-low monocyte	16	1	0.0	0.0	0.0	0.0	False
+healthy	CD14-positive, CD16-negative classical monocyte	98	5	0.0	0.0	0.0	0.017780661275379032	True
+healthy	CD14-positive, CD16-positive monocyte	72	3	0.0	0.0	0.0	0.0	True
+healthy	CD141-positive myeloid dendritic cell	352	7	0.0	0.0	0.0	0.0	True
+healthy	CD16-negative, CD56-bright natural killer cell, human	1912	22	0.0	0.0	0.0	0.0	True
+healthy	CD16-positive, CD56-dim natural killer cell, human	887	18	0.0	0.0	0.0	0.0	True
+healthy	CD1c-positive myeloid dendritic cell	850	9	0.0	0.0	0.0	0.0	True
+healthy	CD22-positive, CD38-low small pre-B cell	14	1	0.0	0.0	0.0	0.0	False
+healthy	CD34-negative, CD117-positive innate lymphoid cell, human	11	1	0.6019822314343742	0.12300123001230012	0.3566313790563988	0.7927317993066532	False
+healthy	CD34-positive, CD38-negative hematopoietic stem cell	19	1	0.0	0.0	0.0	0.0	False
+healthy	CD34-positive, CD56-positive, CD117-positive common innate lymphoid precursor, human	16	2	0.0	0.0	0.0	0.0	True
+healthy	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	5	2	0.0	0.0	0.0	0.0	True
+healthy	CD4-positive helper T cell	293	7	0.0	0.0	0.0	0.0	True
+healthy	CD4-positive, CD25-positive, alpha-beta regulatory T cell	119	7	0.0	0.0	0.0	0.0	True
+healthy	CD4-positive, alpha-beta T cell	1859	40	0.0	0.0	0.0	0.0	True
+healthy	CD4-positive, alpha-beta cytotoxic T cell	1528	8	0.0	0.0	0.0	0.0	True
+healthy	CD4-positive, alpha-beta memory T cell	243	13	0.0	0.0	0.0	0.0	True
+healthy	CD4-positive, alpha-beta thymocyte	12	3	0.0	0.0	0.0	0.10652103968235636	True
+healthy	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	5	1	0.0	0.0	0.0	0.0	False
+healthy	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	39	2	0.0	0.0	0.0	0.0	True
+healthy	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	12	1	0.0	0.0	0.0	0.0	False
+healthy	CD8-positive, alpha-beta T cell	1501	35	0.0	0.0	0.0	0.0	True
+healthy	CD8-positive, alpha-beta cytotoxic T cell	718	10	0.0	0.0	0.0	0.0	True
+healthy	CD8-positive, alpha-beta memory T cell	1143	22	0.0	0.0	0.0	0.0	True
+healthy	CD8-positive, alpha-beta memory T cell, CD45RO-positive	32	2	0.0	0.0	0.0	0.0	True
+healthy	CD8-positive, alpha-beta regulatory T cell	80	4	0.0	0.0	0.0	0.0	True
+healthy	CD8-positive, alpha-beta thymocyte	20	3	0.0	0.0	0.0	0.0	True
+healthy	CD8aa(I) thymocyte	64	2	0.0	0.0	0.0	0.0	True
+healthy	Cajal-Retzius cell	37	3	0.0	0.0	0.0	1.6715970654027992	True
+healthy	GABAergic amacrine cell	151	4	0.6602152466650917	0.4163775156141568	0.2517112260363827	1.268844218780389	True
+healthy	GABAergic interneuron	17	2	0.3950902895551903	0.5681818181818182	0.0	1.6776927653095406	True
+healthy	GABAergic neuron	560	13	0.0	0.0	0.0	0.9795942966762625	True
+healthy	GIP cell	7	1	0.0	0.0	0.0	0.0	False
+healthy	H1 horizontal cell	137	3	1.9176784503743836	1.5978695073235685	0.7011150262114404	2.9112218281950795	True
+healthy	H2 horizontal cell	136	3	0.0	0.0	0.0	1.2259034896387722	True
+healthy	Hofbauer cell	59	3	0.0	0.0	0.0	1.4269709459597464	True
+healthy	ILC1, human	21	1	0.0	0.0	0.0	0.0	False
+healthy	IgA plasma cell	330	11	0.0	0.0	0.0	0.0	True
+healthy	IgA plasmablast	6	1	0.0	0.0	0.0	0.0	False
+healthy	IgG memory B cell	4	1	0.0	0.0	0.0	0.0	False
+healthy	IgG plasma cell	311	11	0.0	0.0	0.0	0.0	True
+healthy	IgG plasmablast	6	1	0.0	0.0	0.0	0.0	False
+healthy	IgG-negative class switched memory B cell	4	1	0.0	0.0	0.0	0.0	False
+healthy	IgM plasma cell	90	4	0.0	0.0	0.0	0.0	True
+healthy	Kupffer cell	57	5	0.0	0.0	0.0	0.0	True
+healthy	L2/3 intratelencephalic projecting glutamatergic neuron	469	4	3.4986283586560813	15.879828326180258	3.0132002556644486	3.8769939363182493	True
+healthy	L2/3-6 intratelencephalic projecting glutamatergic neuron	484	3	4.799467765584221	31.36066053586331	4.299762625238266	5.143115257354552	True
+healthy	L3 intratelencephalic projecting glutamatergic neuron	11	1	4.864554648744755	30.357142857142858	4.568325425295582	5.2288808797551045	False
+healthy	L4 intratelencephalic projecting glutamatergic neuron	27	1	0.548132553830425	0.3787878787878788	0.0	2.433158599416728	False
+healthy	L4/5 intratelencephalic projecting glutamatergic neuron	11	1	4.877611610037277	35.75184016824395	4.660024751015985	5.427819726553894	False
+healthy	L5 extratelencephalic projecting glutamatergic cortical neuron	290	6	0.0	0.0	0.0	0.0349081423032039	True
+healthy	L5 intratelencephalic projecting glutamatergic neuron	24	1	1.098726235768721	0.7637260823718506	0.0	2.3300687549819674	False
+healthy	L5/6 near-projecting glutamatergic neuron	395	1	0.0	0.0	0.0	0.803222120339566	False
+healthy	L5/6 near-projecting glutamatergic neuron of the primary motor cortex	4	1	0.5254633818967435	0.39311090515909797	0.33041083464320264	0.6349461271085886	False
+healthy	L6 corticothalamic-projecting glutamatergic cortical neuron	421	4	3.3846394502944066	16.666666666666668	2.6765448475697045	3.9788582293223964	True
+healthy	L6 intratelencephalic projecting glutamatergic neuron	444	3	5.540346155845788	48.159439927732606	4.781394264951216	6.197235511918973	True
+healthy	L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex	4	1	5.199441488794944	32.63285110489585	4.96185845409458	5.490540468044955	False
+healthy	L6b glutamatergic cortical neuron	97	5	2.856269346702028	15.703602991162475	2.47624376220596	3.144829414714072	True
+healthy	L6b glutamatergic neuron of the primary motor cortex	393	1	2.8052732621995338	13.793103448275861	0.0	3.3905986884055603	False
+healthy	Langerhans cell	87	6	0.0	0.0	0.0	0.0	True
+healthy	Leydig cell	19	2	2.873236721891853	7.462686567164179	2.4121229335974244	3.5174498188855665	True
+healthy	M cell of gut	44	6	0.0	0.0	0.0	0.0	True
+healthy	MHC-II-positive classical monocyte	3	1	0.0	0.0	0.0	0.0	False
+healthy	Merkel cell	12	2	0.0	0.0	0.0	0.0	True
+healthy	Mueller cell	197	12	8.127279650136593	59.426402361872626	7.10324067294042	8.773112840453477	True
+healthy	NKp44-negative group 3 innate lymphoid cell, human	6	1	0.0	0.0	0.0	0.0	False
+healthy	NKp44-positive group 3 innate lymphoid cell, human	6	1	0.0	0.0	0.0	0.0	False
+healthy	OFF midget ganglion cell	121	2	0.23546689285463318	0.20147750167897918	0.0	0.7617852585311828	True
+healthy	OFF parasol ganglion cell	122	3	0.0	0.0	0.0	0.18584030346347546	True
+healthy	OFF-bipolar cell	16	4	1.149596801389031	0.32457804853690203	0.5724812180623454	1.4982004924140617	True
+healthy	OFFx cell	128	3	0.0	0.0	0.0	0.0	True
+healthy	ON midget ganglion cell	119	2	0.15800537464636039	0.15473887814313347	0.0	0.5811409084596788	True
+healthy	ON parasol ganglion cell	124	3	0.0	0.0	0.0	0.0	True
+healthy	ON-bipolar cell	24	5	1.0183799502524937	0.33978921588489264	0.0	2.3097651102635206	True
+healthy	ON-blue cone bipolar cell	106	2	0.0	0.0	0.0	0.0	True
+healthy	P/D1 enteroendocrine cell	21	1	0.0	0.0	0.0	0.0	False
+healthy	PP cell	19	1	0.0	0.0	0.0	1.9003911367966424	False
+healthy	Purkinje cell	36	4	0.8073024236312436	0.18293474615361927	0.0	1.7810841702333406	True
+healthy	S cone cell	125	3	0.0	0.0	0.0	0.0	True
+healthy	Schwann cell	428	25	0.0	0.0	0.0	2.49985727732631	True
+healthy	Schwann cell precursor	40	3	1.6536925267878064	2.2814018043025674	0.0	4.548217672628389	True
+healthy	Sertoli cell	24	2	0.7094633825586648	0.29918236695300704	0.0	1.2908803252400025	True
+healthy	T cell	2142	74	0.0	0.0	0.0	0.0	True
+healthy	T follicular helper cell	188	13	0.0	0.0	0.0	0.0	True
+healthy	T follicular regulatory cell	7	1	0.0	0.0	0.0	0.0	False
+healthy	T-helper 1 cell	27	3	0.0	0.0	0.0	0.0	True
+healthy	T-helper 17 cell	147	7	0.0	0.0	0.0	0.0	True
+healthy	T-helper 2 cell	9	1	0.0	0.0	0.0	0.0	False
+healthy	T-helper 22 cell	23	1	0.0	0.0	0.0	0.0	False
+healthy	TAC3-positive striatal interneuron	2	1	0.16875249574563309	0.6890982097032274	0.1410897177488258	0.19641527374244036	False
+healthy	TREM2-positive macrophage	57	1	0.0	0.0	0.0	0.0	False
+healthy	Tc1 cell	84	1	0.0	0.0	0.0	0.0	False
+healthy	VIP GABAergic cortical interneuron	542	8	0.6217277512903491	0.8	0.0	0.9225218210129549	True
+healthy	abnormal cell	23	1	0.0	0.0	0.0	0.0	False
+healthy	acinar cell	89	5	0.0	0.0	0.0	0.0	True
+healthy	acinar cell of salivary gland	18	2	0.0	0.0	0.0	0.19992412987157415	True
+healthy	activated CD4-positive, alpha-beta T cell	167	7	0.0	0.0	0.0	0.0	True
+healthy	activated CD4-positive, alpha-beta T cell, human	12	2	0.0	0.0	0.0	0.0	True
+healthy	activated CD8-positive, alpha-beta T cell	92	8	0.0	0.0	0.0	0.0	True
+healthy	activated CD8-positive, alpha-beta T cell, human	1	1	0.0	0.0	0.0	0.0	False
+healthy	activated type II NK T cell	12	1	0.0	0.0	0.0	0.0	False
+healthy	adipocyte	205	16	0.0	0.0	0.0	2.3896587505135676	True
+healthy	adipocyte of breast	20	1	2.444441519284288	1.9742701288580893	0.9795257832775528	3.027771118172595	False
+healthy	adipocyte of epicardial fat of left ventricle	4	1	0.0	0.0	0.0	0.0	False
+healthy	adipocyte of omentum tissue	10	1	1.8209896029523818	0.9871233916726605	1.0673377719728434	2.726464320994802	False
+healthy	adventitial cell	16	2	5.095515091000035	10.363604369248417	3.8510945908516163	5.769136815546993	True
+healthy	afferent neuron	2	1	0.0	0.0	0.0	0.0	False
+healthy	airway submucosal gland collecting duct epithelial cell	5	1	0.0	0.0	0.0	0.0	False
+healthy	airway submucosal gland duct basal cell	9	1	0.0	0.0	0.0	0.21223010284269683	False
+healthy	alpha-beta T cell	35	3	0.0	0.0	0.0	0.0	True
+healthy	alternatively activated macrophage	207	6	0.0	0.0	0.0	0.0	True
+healthy	alveolar capillary type 1 endothelial cell	24	2	0.0	0.0	0.0	1.3256373259203067	True
+healthy	alveolar capillary type 2 endothelial cell	24	2	0.0	0.0	0.0	0.0	True
+healthy	alveolar macrophage	264	11	0.0	0.0	0.0	0.0	True
+healthy	amacrine cell	188	12	0.7584411393447656	0.20863804150995963	0.0	2.2320846163030246	True
+healthy	angiogenic pericyte	4	1	0.0	0.0	0.0	0.0	False
+healthy	anterior lens cell	3	1	0.32625149385532287	0.1400070003500175	0.25591422497021304	0.4309888595957644	False
+healthy	antibody secreting cell	62	1	0.0	0.0	0.0	0.0	False
+healthy	arachnoid barrier cell	8	1	6.073799367106065	34.86088379705401	5.402688410459236	6.580145043476404	False
+healthy	articular chondrocyte	7	1	8.02321689836206	52.8	7.377605876699988	8.307725872666477	False
+healthy	astrocyte	954	33	2.975621513628872	2.9428419159283195	1.2530011948514375	4.4122345248789365	True
+healthy	astrocyte of the cerebral cortex	52	2	4.377785704706003	12.618137921335146	3.5542082679986278	5.084074172850216	True
+healthy	basal cell	328	20	0.0	0.0	0.0	0.9661235675638392	True
+healthy	basal cell of epidermis	34	3	0.17011497751299684	0.12326443554117521	0.0	6.019874486691659	True
+healthy	basal cell of epithelium of bronchus	28	2	0.0	0.0	0.0	0.0	True
+healthy	basal cell of epithelium of trachea	42	1	0.0	0.0	0.0	0.0	False
+healthy	basal cell of prostate epithelium	6	2	0.0517376771707052	0.025233421873999164	0.012736258296304237	0.0566405394672472	True
+healthy	basal cell of urothelium	11	2	0.0	0.0	0.0	0.032553911533978845	True
+healthy	basal epithelial cell of prostatic duct	4	1	0.8133937266918687	0.11186135814122508	0.29015023781862725	1.3390342348080542	False
+healthy	basal epithelial cell of tracheobronchial tree	3	1	1.6260944762544474	0.27195027195027194	1.2728634487536317	2.192559740530022	False
+healthy	basal-myoepithelial cell of mammary gland	173	4	0.45980668030633587	0.19389238972370335	0.0	1.1126157399286127	True
+healthy	basophil	35	4	0.0	0.0	0.0	0.0	True
+healthy	basophil mast progenitor cell	106	5	0.0	0.0	0.0	0.0	True
+healthy	basophilic erythroblast	45	1	0.0	0.0	0.0	0.0	False
+healthy	bipolar neuron	5	1	0.0	0.0	0.0	2.9700776220292346	False
+healthy	bladder urothelial cell	6	1	0.2976322482528668	0.7344724532224531	0.10408313529651067	0.40275373307319084	False
+healthy	blood cell	17	3	0.0	0.0	0.0	0.0	True
+healthy	blood vessel endothelial cell	371	18	2.753054386736324	1.916952474277315	0.8641391184666547	3.7884833369370763	True
+healthy	blood vessel smooth muscle cell	125	6	1.0532847891200596	0.6228860602618058	0.0	2.6827049200908553	True
+healthy	bone marrow cell	7	1	0.0	0.0	0.0	0.0	False
+healthy	brain vascular cell	55	3	2.1837484611769793	1.4813497222157572	0.0	3.7825691444742966	True
+healthy	brainstem motor neuron	12	1	0.0	0.0	0.0	2.2286448321416836	False
+healthy	bronchial epithelial cell	3	1	0.0	0.0	0.0	0.0	False
+healthy	bronchial goblet cell	87	3	0.0	0.0	0.0	0.0	True
+healthy	bronchial smooth muscle cell	7	2	0.0	0.0	0.0	0.35418168200085864	True
+healthy	bronchiolar smooth muscle cell	12	1	0.0	0.0	0.0	0.0	False
+healthy	brush cell of trachea	18	1	0.0	0.0	0.0	0.0	False
+healthy	brush cell of tracheobronchial tree	67	4	0.0	0.0	0.0	0.0	True
+healthy	capillary endothelial cell	723	25	1.1147036638460492	0.6097560975609756	0.0	3.9628312042245457	True
+healthy	cardiac blood vessel endothelial cell	61	1	4.449165912063583	3.508771929824561	4.091260378603558	4.925067442130003	False
+healthy	cardiac endothelial cell	24	5	2.349826471846605	1.121965003459513	0.0	3.2445984130064396	True
+healthy	cardiac mesenchymal cell	7	1	2.222194071842647	2.7027027027027026	0.0	3.368358963478081	False
+healthy	cardiac muscle cell	127	9	0.6234519719950349	0.17584994138335286	0.06578783066291373	1.0279143865038831	True
+healthy	cardiac muscle myoblast	4	1	0.6499137963072923	0.6261046474075187	0.4705690252508705	0.9023029697629814	False
+healthy	cardiac neuron	9	2	1.448358960619463	0.5277044854881267	0.0	5.222066096323997	True
+healthy	caudal ganglionic eminence derived cortical interneuron	105	5	0.6403721205281724	0.9284692698027076	0.0	1.1317590754061593	True
+healthy	cell	28	3	0.6961339314648041	0.591715976331361	0.0	1.6343106796893339	True
+healthy	cell of skeletal muscle	64	5	0.0	0.0	0.0	2.178734025508937	True
+healthy	central memory CD4-positive, alpha-beta T cell	1778	12	0.0	0.0	0.0	0.0	True
+healthy	central memory CD8-positive, alpha-beta T cell	1143	9	0.0	0.0	0.0	0.0	True
+healthy	central nervous system macrophage	55	4	0.0	0.0	0.0	0.7966730920996824	True
+healthy	central nervous system neuron	22	1	1.1533509504962334	1.915029112081514	0.6094367941540684	1.6510641491296127	False
+healthy	centrilobular region hepatocyte	36	3	0.0	0.0	0.0	0.0	True
+healthy	centroblast	7	1	0.0	0.0	0.0	0.0	False
+healthy	centrocyte	7	1	0.0	0.0	0.0	0.0	False
+healthy	cerebellar granule cell	40	2	0.0	0.0	0.0	0.5178697659910023	True
+healthy	cerebellar granule cell precursor	28	2	4.484256798983717	3.2850212613044256	0.0	5.507001772449763	True
+healthy	cerebral cortex GABAergic interneuron	11	1	0.7693464112066721	0.1480932987782303	0.5950438384688921	0.9139257001513827	False
+healthy	cerebral cortex endothelial cell	54	3	1.6827951742840752	1.5165441176470589	0.0	2.5442654210406688	True
+healthy	chandelier cell	11	1	0.0	0.0	0.0	0.0	False
+healthy	chandelier pvalb GABAergic cortical interneuron	57	3	0.6712243389649333	1.015228426395939	0.38414933333701534	1.0253428515207887	True
+healthy	cholangiocyte	43	6	0.0	0.0	0.0	0.0	True
+healthy	chondroblast	24	1	6.3494980374408865	41.774193548387096	5.75029192036651	6.885381822222265	False
+healthy	chondrocyte	118	13	4.0968572829970045	7.6923076923076925	0.0	6.429386712353286	True
+healthy	chorionic trophoblast cell	9	1	0.0	0.0	0.0	0.0	False
+healthy	choroid plexus epithelial cell	25	3	3.126012182179914	1.3235191272116933	0.0531954629402124	3.791478629502305	True
+healthy	choroid plexus macrophage	11	1	0.0	0.0	0.0	2.54681797284819	False
+healthy	chromaffin cell	14	1	0.0	0.0	0.0	0.0	False
+healthy	ciliary muscle cell	97	2	0.30640390583383825	0.1389440254069075	0.0	0.990228329814461	True
+healthy	ciliated cell	161	11	0.0	0.0	0.0	0.0	True
+healthy	ciliated epithelial cell	54	8	0.0	0.0	0.0	1.1711060355117806	True
+healthy	class switched memory B cell	286	8	0.0	0.0	0.0	0.0	True
+healthy	classical monocyte	707	25	0.0	0.0	0.0	0.0	True
+healthy	club cell	290	12	0.0	0.0	0.0	0.0	True
+healthy	collagen secreting cell	5	1	0.0	0.0	0.0	1.2565737591504191	False
+healthy	colon endothelial cell	12	2	0.0	0.0	0.0	5.855461652578241	True
+healthy	colon epithelial cell	22	2	0.0	0.0	0.0	0.23521917931794875	True
+healthy	colon goblet cell	20	2	0.0	0.0	0.0	0.0	True
+healthy	colon macrophage	10	2	0.0	0.0	0.0	0.0	True
+healthy	colonocyte	59	3	0.0	0.0	0.0	0.0	True
+healthy	columnar/cuboidal epithelial cell	5	1	0.0	0.0	0.0	0.0	False
+healthy	committed oligodendrocyte precursor	54	4	0.0	0.0	0.0	0.0	True
+healthy	common dendritic progenitor	35	4	0.0	0.0	0.0	0.0	True
+healthy	common lymphoid progenitor	121	5	0.0	0.0	0.0	0.0	True
+healthy	common myeloid progenitor	192	14	0.0	0.0	0.0	0.0	True
+healthy	cone retinal bipolar cell	3	1	2.082710067827397	0.8339651250947687	1.9925306747027296	2.495126499127557	False
+healthy	conjunctival epithelial cell	81	3	0.39975288978795726	0.6564551422319475	0.0	1.528603265243524	True
+healthy	connective tissue cell	18	2	5.913158019951177	41.04114500341452	4.464174889822239	6.654038070127836	True
+healthy	contractile cell	14	1	0.0	0.0	0.0	3.260007839309845	False
+healthy	conventional dendritic cell	1874	47	0.0	0.0	0.0	0.0	True
+healthy	cord blood hematopoietic stem cell	35	1	0.0	0.0	0.0	0.0	False
+healthy	corneal endothelial cell	39	2	2.669889409606426	3.1890660592255125	0.37167350550765504	3.729764588927803	True
+healthy	corneal epithelial cell	14	3	0.30299568537724964	0.20685348763002426	0.0	0.5855261716462858	True
+healthy	cortical cell of adrenal gland	7	1	2.9192189379329236	0.31135951815838503	1.7141001949391268	3.536797999554495	False
+healthy	cortical interneuron	12	1	0.6239175813169751	0.32679738562091504	0.38712247929483473	1.169269496934224	False
+healthy	cortical thymic epithelial cell	23	2	0.0	0.0	0.0	0.01282678916883824	True
+healthy	corticomedullary thymic epithelial cell	9	1	0.0	0.0	0.0	0.6238896517882873	False
+healthy	corticothalamic-projecting glutamatergic cortical neuron	80	3	3.65062196134085	20.682629720399504	2.8785425382385412	4.028809923476128	True
+healthy	cycling T cell	54	1	0.0	0.0	0.0	0.0	False
+healthy	cycling basal cell	1	1	0.0	0.0	0.0	0.0	False
+healthy	cycling myeloid cell	12	1	0.0	0.0	0.0	0.0	False
+healthy	cycling plasma cell	10	1	0.0	0.0	0.0	0.0	False
+healthy	cytotoxic T cell	72	6	0.0	0.0	0.0	0.03989128240890891	True
+healthy	decidual cell	17	2	6.481393735351176	49.84375	5.881710346804024	6.72249611715614	True
+healthy	decidual natural killer cell, human	43	2	0.0	0.0	0.0	0.5853171896217988	True
+healthy	dendritic cell	1092	54	0.0	0.0	0.0	0.0	True
+healthy	dendritic cell, human	90	7	0.0	0.0	0.0	0.0	True
+healthy	dermis microvascular lymphatic vessel endothelial cell	9	1	0.0	0.0	0.0	0.0	False
+healthy	deuterosomal cell	33	4	0.0	0.0	0.0	0.0	True
+healthy	diffuse bipolar 1 cell	134	3	0.7377561783917834	0.29075951810352235	0.0	1.5138419439848538	True
+healthy	diffuse bipolar 2 cell	140	3	0.771893005986051	0.3105590062111801	0.0	1.4910056614525722	True
+healthy	diffuse bipolar 3a cell	137	3	0.0	0.0	0.0	1.4750137771656662	True
+healthy	diffuse bipolar 3b cell	139	3	0.0	0.0	0.0	1.36498593128778	True
+healthy	diffuse bipolar 4 cell	105	2	4.011563852090886	4.137931034482759	2.6673005373754526	4.954831173581766	True
+healthy	diffuse bipolar 4a cell	28	1	0.0	0.0	0.0	2.2832819955871937	False
+healthy	diffuse bipolar 4b cell	25	1	6.9660001190114595	36.8421052631579	4.940271781117574	7.773673484406113	False
+healthy	diffuse bipolar 5 cell	27	1	2.4758040637094774	2.9411764705882355	0.0	4.147268554172426	False
+healthy	diffuse bipolar 6 cell	127	3	0.0	0.0	0.0	1.6155617392219388	True
+healthy	direct pathway medium spiny neuron	14	2	0.6633567351676335	1.6746706737223178	0.4232830520897962	0.8584317549805792	True
+healthy	dopaminergic neuron	12	2	0.30290398935075086	0.509080820013674	0.0	0.3961289230733492	True
+healthy	double negative T regulatory cell	293	2	0.0	0.0	0.0	0.0	True
+healthy	double negative thymocyte	812	9	0.0	0.0	0.0	0.0	True
+healthy	double-positive, alpha-beta thymocyte	66	5	0.0	0.0	0.0	0.0	True
+healthy	duct epithelial cell	58	3	0.0	0.0	0.0	0.0	True
+healthy	early T lineage precursor	32	3	0.0	0.0	0.0	0.0	True
+healthy	early colonocyte	20	1	0.0	0.0	0.0	0.0	False
+healthy	early lymphoid progenitor	72	6	0.0	0.0	0.0	0.0	True
+healthy	early pro-B cell	12	1	0.0	0.0	0.0	0.0	False
+healthy	early promyelocyte	1	1	1.002650591217296	1.3550135501355014	1.002650591217296	1.002650591217296	False
+healthy	effector CD4-positive, alpha-beta T cell	25	5	0.0	0.0	0.0	0.0	True
+healthy	effector CD8-positive, alpha-beta T cell	91	8	0.0	0.0	0.0	0.0	True
+healthy	effector memory CD4-positive, alpha-beta T cell	1874	14	0.0	0.0	0.0	0.0	True
+healthy	effector memory CD4-positive, alpha-beta T cell, terminally differentiated	24	1	0.0	0.0	0.0	0.0	False
+healthy	effector memory CD8-positive, alpha-beta T cell	1502	18	0.0	0.0	0.0	0.0	True
+healthy	effector memory CD8-positive, alpha-beta T cell, terminally differentiated	86	4	0.0	0.0	0.0	0.0	True
+healthy	elicited macrophage	162	2	0.0	0.0	0.0	0.0	True
+healthy	embryonic blood vessel endothelial progenitor cell	13	1	0.0	0.0	0.0	1.4493307889060634	False
+healthy	embryonic fibroblast	26	1	5.923973994764129	33.11368759962653	3.998459721001501	6.261103922227487	False
+healthy	embryonic stem cell	12	1	0.0	0.0	0.0	0.0	False
+healthy	endocardial cell	77	3	0.9715134539076717	0.28901734104046245	0.5767046313636538	1.5380578137969159	True
+healthy	endocrine cell	27	3	0.0	0.0	0.0	0.0	True
+healthy	endosteal cell	6	1	8.282190558419586	88.63636363636363	7.682596373589231	8.974109391110312	False
+healthy	endothelial cell	1595	82	0.951334039460986	0.3922111480251015	0.0	3.3369163237635195	True
+healthy	endothelial cell of arteriole	169	7	1.6789211104867858	0.8875739644970414	0.0	3.068887380661459	True
+healthy	endothelial cell of artery	686	32	0.0	0.0	0.0	3.4563715425016825	True
+healthy	endothelial cell of hepatic sinusoid	31	2	0.0	0.0	0.0	0.0	True
+healthy	endothelial cell of lymphatic vessel	955	50	0.0	0.0	0.0	0.0	True
+healthy	endothelial cell of pericentral hepatic sinusoid	36	3	0.0	0.0	0.0	0.0	True
+healthy	endothelial cell of periportal hepatic sinusoid	31	2	0.0	0.0	0.0	0.0	True
+healthy	endothelial cell of placenta	39	2	0.9136138667054978	1.3801756587202008	0.0	3.2763077406610446	True
+healthy	endothelial cell of respiratory system lymphatic vessel	56	3	0.0	0.0	0.0	0.0	True
+healthy	endothelial cell of sinusoid	9	1	0.0	0.0	0.0	1.9125638954451083	False
+healthy	endothelial cell of uterus	48	3	4.030483844019198	9.868913857677903	1.5542326205772161	4.912875257553687	True
+healthy	endothelial cell of vascular tree	143	12	3.123812859622312	1.0509863697616364	0.0	5.078464419419438	True
+healthy	endothelial cell of venule	229	7	1.8719083177448008	0.8379226364174912	0.0	3.2842774421165775	True
+healthy	endothelial tip cell	99	3	0.7558512111605388	0.5952380952380952	0.0	1.6272397973971429	True
+healthy	enteric neuron	25	3	0.0	0.0	0.0	0.0	True
+healthy	enteric smooth muscle cell	36	4	3.4963799368868633	3.0	0.3555328992877019	4.623061327600294	True
+healthy	enterochromaffin-like cell	4	1	0.0	0.0	0.0	0.0	False
+healthy	enterocyte	227	9	0.0	0.0	0.0	0.0	True
+healthy	enterocyte of epithelium of large intestine	8	2	0.0	0.0	0.0	0.08479895884085112	True
+healthy	enterocyte of epithelium of small intestine	4	2	0.100602929757898	0.11260490786352856	0.08355397194390693	0.1730257488682514	False
+healthy	enterocyte of epithelium proper of duodenum	5	1	0.513921200382361	0.7846320346320347	0.4268154362824382	0.591653922687902	False
+healthy	enterocyte of epithelium proper of ileum	4	1	0.15256520442421512	0.27127986100161033	0.10721908210318665	0.20714219406454704	False
+healthy	enterocyte of epithelium proper of jejunum	1	1	0.2224330646878892	0.24691358024691357	0.2224330646878892	0.2224330646878892	False
+healthy	enterocyte of epithelium proper of small intestine	2	1	0.42066196913234016	2.4880372622041147	0.26005766027324123	0.5812662779914392	False
+healthy	enteroendocrine cell	203	12	0.0	0.0	0.0	0.0	True
+healthy	enteroendocrine cell of colon	18	2	0.0	0.0	0.0	4.702474674869426	True
+healthy	enteroendocrine cell of small intestine	9	3	0.08222322588803672	1.098901098901099	0.0	1.2129679474646684	True
+healthy	enteroglial cell	38	2	0.0	0.0	0.0	0.0	True
+healthy	enucleate erythrocyte	9	1	0.0	0.0	0.0	0.0	False
+healthy	enucleated reticulocyte	3	1	0.0	0.0	0.0	0.0	False
+healthy	eosinophil	33	5	0.0	0.0	0.0	0.0	True
+healthy	ependymal cell	60	6	2.952029087408154	2.7808139908699285	0.0	4.200742436346535	True
+healthy	epicardial adipocyte	23	2	1.4696449372503921	0.4065040650406504	0.0	2.75846005620085	True
+healthy	epidermal Langerhans cell	1	1	0.0	0.0	0.0	0.0	False
+healthy	epidermal cell	3	1	0.0	0.0	0.0	0.0	False
+healthy	epithelial cell	525	27	0.0	0.0	0.0	1.457758911828782	True
+healthy	epithelial cell of distal tubule	10	1	0.0	0.0	0.0	0.0	False
+healthy	epithelial cell of early distal convoluted tubule	11	1	0.0	0.0	0.0	0.31688143895568893	False
+healthy	epithelial cell of esophagus	16	1	0.0	0.0	0.0	0.0	False
+healthy	epithelial cell of exocrine pancreas	3	1	0.0	0.0	0.0	0.3147007555812223	False
+healthy	epithelial cell of lower respiratory tract	146	3	0.0	0.0	0.0	0.0	True
+healthy	epithelial cell of lung	58	3	0.0	0.0	0.0	0.0	True
+healthy	epithelial cell of nephron	9	1	0.0	0.0	0.0	0.10518710106098958	False
+healthy	epithelial cell of prostate	4	1	0.3270246544405224	0.06097560975609756	0.0	0.6991283598150175	False
+healthy	epithelial cell of proximal tubule	139	11	0.0	0.0	0.0	0.2994489313502971	True
+healthy	epithelial cell of proximal tubule segment 1	9	1	0.0	0.0	0.0	0.0	False
+healthy	epithelial cell of proximal tubule segment 3	19	2	0.0	0.0	0.0	0.0	True
+healthy	epithelial cell of small intestine	3	1	0.0	0.0	0.0	0.0	False
+healthy	epithelial cell of stratum germinativum of esophagus	6	1	0.0	0.0	0.0	0.0	False
+healthy	epithelial cell of sweat gland	3	1	0.0	0.0	0.0	0.0	False
+healthy	epithelial cell of thymus	22	2	0.0	0.0	0.0	0.0	True
+healthy	epithelial cell of urethra	3	1	0.0	0.0	0.0	0.0	False
+healthy	epithelial cell of uterus	2	1	2.6563006445122985	16.273999871572595	1.6887963845981835	3.6238049044264136	False
+healthy	epithelial fate stem cell	1	1	0.0	0.0	0.0	0.0	False
+healthy	erythroblast	106	8	0.0	0.0	0.0	0.0	True
+healthy	erythrocyte	466	29	0.0	0.0	0.0	0.0	True
+healthy	erythroid lineage cell	116	15	0.0	0.0	0.0	0.0	True
+healthy	erythroid progenitor cell	109	7	0.0	0.0	0.0	0.0	True
+healthy	erythroid progenitor cell, mammalian	20	1	0.0	0.0	0.0	0.0	False
+healthy	eurydendroid cell	12	1	0.0	0.0	0.0	0.0	False
+healthy	exhausted T cell	3	1	0.0	0.0	0.0	0.0	False
+healthy	extravillous trophoblast	59	4	1.600957031829682	4.545454545454546	0.0	2.9438646610957324	True
+healthy	eye photoreceptor cell	4	1	0.20000133717364343	0.10683760683760683	0.0	0.5017825368878202	False
+healthy	fallopian tube secretory epithelial cell	11	2	0.0	0.0	0.0	0.1180407835329593	True
+healthy	fast muscle cell	34	4	1.2561224297936042	0.3381805884342239	0.0	2.264492774119891	True
+healthy	fenestrated endothelial cell	153	2	0.0	0.0	0.0	2.3509660792050395	True
+healthy	fetal cardiomyocyte	7	1	0.0	0.0	0.0	1.1804553627728167	False
+healthy	fibro/adipogenic progenitor cell	24	2	5.83123668042745	17.292573778422835	4.885319392453647	6.85915231944199	True
+healthy	fibrocyte	13	2	6.473680786752055	33.333333333333336	4.044180480640894	6.675047494950531	True
+healthy	flat midget bipolar cell	139	3	0.7420623323483974	0.3067484662576687	0.0	1.4142039120566459	True
+healthy	follicular B cell	18	3	0.0	0.0	0.0	0.0	True
+healthy	follicular dendritic cell	23	6	0.0	0.0	0.0	0.27706691940914385	True
+healthy	forebrain neuroblast	26	3	0.5586851073987108	0.1349527665317139	0.0	1.8969024263552285	True
+healthy	forebrain radial glial cell	52	3	0.8293465603109376	0.3254259303052015	0.16718514878765728	2.7481077277297055	True
+healthy	foveolar cell of stomach	64	2	0.0	0.0	0.0	0.0	True
+healthy	fraction A pre-pro B cell	46	5	0.0	0.0	0.0	0.0	True
+healthy	gamma-delta T cell	2091	31	0.0	0.0	0.0	0.0	True
+healthy	ganglion interneuron	5	1	0.0	0.0	0.0	0.0	False
+healthy	gastrointestinal tract (lamina propria) macrophage	65	1	0.0	0.0	0.0	0.0	False
+healthy	germ cell	47	1	0.0	0.0	0.0	0.7571400013664682	False
+healthy	germinal center B cell	120	5	0.0	0.0	0.0	0.0	True
+healthy	giant bipolar cell	124	2	0.6975020338730646	0.2882706254724897	0.0	1.7429779188531653	True
+healthy	glandular cell of esophagus	10	2	0.0	0.0	0.0	0.0	True
+healthy	glandular secretory epithelial cell	76	7	0.0	0.0	0.0	1.6074023659246297	True
+healthy	glial cell	144	11	0.0	0.0	0.0	3.5844408745909258	True
+healthy	glioblast	45	4	2.03273288703172	1.2820512820512822	0.893000430427593	2.9684499043589057	True
+healthy	glioblast (sensu Vertebrata)	12	1	4.942964610669221	14.467697907188352	2.728045573878476	5.716314631608951	False
+healthy	glomerular capillary endothelial cell	16	2	0.0	0.0	0.0	0.0	True
+healthy	glomerular endothelial cell	10	1	0.0	0.0	0.0	0.0	False
+healthy	glomerular mesangial cell	4	1	2.058747744201654	4.054054054054054	0.0	4.290615531131758	False
+healthy	glutamatergic neuron	203	19	2.899367415381116	2.962962962962963	1.4287254569239378	4.2050082542796465	True
+healthy	glycinergic amacrine cell	143	4	1.050953184297789	0.5390835579514824	0.31566834875593097	1.7262930216501609	True
+healthy	glycinergic neuron	8	1	0.0	0.0	0.0	1.046668579112038	False
+healthy	goblet cell	204	11	0.0	0.0	0.0	0.39992416675659026	True
+healthy	granular cell of epidermis	10	2	0.0	0.0	0.0	0.0	True
+healthy	granule cell	18	2	4.2353394510037266	2.2756464543812105	0.0	5.654702977870601	True
+healthy	granulocyte	116	14	0.0	0.0	0.0	0.0	True
+healthy	granulocyte monocyte progenitor cell	104	9	0.0	0.0	0.0	0.0	True
+healthy	granulosa cell	40	3	0.48929279461633557	0.27183748845798705	0.0	1.5147935014084901	True
+healthy	granzyme K-associated CD8 T cell	14	1	0.0	0.0	0.0	0.0	False
+healthy	group 1 innate lymphoid cell	40	2	0.0	0.0	0.0	0.0	True
+healthy	group 2 innate lymphoid cell	49	4	0.0	0.0	0.0	0.0	True
+healthy	group 2 innate lymphoid cell, human	16	1	0.0	0.0	0.0	0.0	False
+healthy	group 3 innate lymphoid cell	194	8	0.0	0.0	0.0	0.0	True
+healthy	group 3 innate lymphoid cell, human	53	3	0.0	0.0	0.0	0.6577451871787618	True
+healthy	gut absorptive cell	43	1	0.1793601147143577	0.12606366214938544	0.0	0.30817689671431353	False
+healthy	gut endothelial cell	17	1	5.130322299892764	21.08719237138126	4.858070372529625	5.384995410849857	False
+healthy	hair follicular keratinocyte	11	2	0.0	0.0	0.0	0.0	True
+healthy	helper T cell	95	6	0.0	0.0	0.0	0.9870454285225249	True
+healthy	hematopoietic cell	116	7	0.0	0.0	0.0	1.5406240716789206	True
+healthy	hematopoietic multipotent progenitor cell	217	7	0.0	0.0	0.0	0.0	True
+healthy	hematopoietic oligopotent progenitor cell	44	1	0.0	0.0	0.0	0.0	False
+healthy	hematopoietic precursor cell	893	10	0.0	0.0	0.0	0.0	True
+healthy	hematopoietic stem cell	247	14	0.0	0.0	0.0	0.0	True
+healthy	hepatic pit cell	21	1	0.0	0.0	0.0	0.0	False
+healthy	hepatic stellate cell	41	6	0.0	0.0	0.0	0.0	True
+healthy	hepatoblast	9	1	0.0	0.0	0.0	0.34411365303923436	False
+healthy	hepatocyte	73	8	0.0	0.0	0.0	0.0	True
+healthy	hippocampal astrocyte	9	1	4.76456336449522	9.504950495049505	4.5845852820629975	5.378031415399808	False
+healthy	hippocampal granule cell	9	1	0.42423211272135547	0.24679170779861798	0.2755087648054121	0.5251055484385609	False
+healthy	hippocampal interneuron	9	1	0.23790543829328495	0.31347962382445144	0.13826310812166898	0.4301805125236003	False
+healthy	hippocampal pyramidal neuron	9	1	0.8114328971705337	1.770956316410862	0.7145069553023919	1.1025476241122525	False
+healthy	hypertrophic chondrocyte	6	1	0.0	0.0	0.0	0.0	False
+healthy	immature B cell	128	10	0.0	0.0	0.0	0.0	True
+healthy	immature NK T cell	21	1	0.0	0.0	0.0	2.756556812287372	False
+healthy	immature Schwann cell	4	1	0.0	0.0	0.0	0.0	False
+healthy	immature T cell	7	1	0.0	0.0	0.0	0.0	False
+healthy	immature alpha-beta T cell	16	2	0.0	0.0	0.0	0.0	True
+healthy	immature astrocyte	34	2	1.569531909754109	0.8265027322404372	0.0	3.05591606586467	True
+healthy	immature innate lymphoid cell	45	4	0.0	0.0	0.0	0.0	True
+healthy	immature microglial cell	4	1	0.0	0.0	0.0	0.0	False
+healthy	immature natural killer cell	9	1	0.0	0.0	0.0	0.0	False
+healthy	immature neutrophil	6	1	0.0	0.0	0.0	0.0	False
+healthy	immature pericyte	6	1	1.8473924380548379	2.857142857142857	0.0	4.078547287947247	False
+healthy	indirect pathway medium spiny neuron	14	2	0.5863531485872694	1.5079274983917963	0.37768421827397586	0.6746085286411602	True
+healthy	inflammatory cell	1	1	0.0	0.0	0.0	0.0	False
+healthy	inflammatory macrophage	160	7	0.0	0.0	0.0	0.0	True
+healthy	inhibitory interneuron	68	9	0.5615547476977539	0.23952095808383234	0.0	1.0870848124366976	True
+healthy	inhibitory motor neuron	8	2	0.9085657364372293	0.591715976331361	0.0	3.17277715020776	True
+healthy	innate lymphoid cell	1041	29	0.0	0.0	0.0	0.0	True
+healthy	intercalated cell of salivary gland	2	1	0.0	0.0	0.0	0.0	False
+healthy	intermediate cell of urothelium	11	2	0.0	0.0	0.0	0.02346523181457554	True
+healthy	intermediate monocyte	92	6	0.0	0.0	0.0	0.0	True
+healthy	interneuron	72	7	0.0	0.0	0.0	1.1753217533619904	True
+healthy	interstitial cell	7	1	0.0	0.0	0.0	0.0	False
+healthy	interstitial cell of Cajal	20	5	1.8238907954479304	0.8695652173913043	0.0	4.455527032280338	True
+healthy	interstitial cell of ovary	25	1	5.556016178235236	24.819855884707767	5.162100596103874	5.929691070083638	False
+healthy	intestinal crypt stem cell	64	3	0.0	0.0	0.0	0.0	True
+healthy	intestinal crypt stem cell of colon	68	4	0.0	0.0	0.0	0.0	True
+healthy	intestinal crypt stem cell of small intestine	8	2	0.0	0.0	0.0	0.15238763264296723	True
+healthy	intestinal enteroendocrine cell	40	1	0.0	0.0	0.0	0.0	False
+healthy	intestinal epithelial cell	117	5	0.0	0.0	0.0	0.32046138714903866	True
+healthy	intestinal tuft cell	40	5	0.0	0.0	0.0	0.0	True
+healthy	intestine goblet cell	114	5	0.0	0.0	0.0	0.4477691984191413	True
+healthy	intraepithelial lymphocyte	35	1	0.0	0.0	0.0	0.0	False
+healthy	intrahepatic cholangiocyte	26	2	0.0	0.0	0.0	0.0	True
+healthy	intratelencephalic-projecting glutamatergic cortical neuron	27	1	0.9358725908365864	0.6211180124223602	0.04403878131593224	1.511012819941925	False
+healthy	invaginating midget bipolar cell	138	3	0.7226669664084076	0.356718192627824	0.0	1.320137910246486	True
+healthy	ionocyte	137	7	0.0	0.0	0.0	0.0	True
+healthy	keratinizing barrier epithelial cell	7	1	0.0	0.0	0.0	0.0	False
+healthy	keratinocyte	64	10	0.0	0.0	0.0	1.145114207931642	True
+healthy	keratocyte	95	2	5.2492415247422315	13.972618775863785	4.420674524192888	5.809476509006583	True
+healthy	kidney capillary endothelial cell	24	2	0.0	0.0	0.0	1.588985907028946	True
+healthy	kidney cell	11	2	0.3601682239763503	0.18518518518518517	0.0	0.6467450841715299	True
+healthy	kidney collecting duct alpha-intercalated cell	11	1	0.0	0.0	0.0	0.0	False
+healthy	kidney collecting duct cell	5	1	0.0	0.0	0.0	0.0	False
+healthy	kidney collecting duct intercalated cell	62	2	0.0	0.0	0.0	0.0	True
+healthy	kidney collecting duct principal cell	69	3	0.0	0.0	0.0	0.0	True
+healthy	kidney connecting tubule epithelial cell	110	8	0.0	0.0	0.0	0.0	True
+healthy	kidney connecting tubule principal cell	14	2	0.0	0.0	0.0	0.0	True
+healthy	kidney cortex collecting duct epithelial cell	11	1	0.0	0.0	0.0	0.0	False
+healthy	kidney distal convoluted tubule epithelial cell	99	8	0.0	0.0	0.0	0.0	True
+healthy	kidney epithelial cell	17	3	0.32483007473757114	0.2819548872180451	0.0	0.7682156885736098	True
+healthy	kidney interstitial alternatively activated macrophage	55	2	0.0	0.0	0.0	0.0	True
+healthy	kidney interstitial cell	31	2	0.0	0.0	0.0	3.9249195308347264	True
+healthy	kidney loop of Henle ascending limb epithelial cell	14	2	0.0	0.0	0.0	0.0	True
+healthy	kidney loop of Henle cortical thick ascending limb epithelial cell	18	1	0.0	0.0	0.0	0.0	False
+healthy	kidney loop of Henle descending limb epithelial cell	19	1	0.0	0.0	0.0	0.0	False
+healthy	kidney loop of Henle epithelial cell	21	2	0.0	0.0	0.0	0.0	True
+healthy	kidney loop of Henle thick ascending limb epithelial cell	102	8	0.0	0.0	0.0	0.0	True
+healthy	kidney loop of Henle thin ascending limb epithelial cell	49	5	0.0	0.0	0.0	0.0	True
+healthy	kidney loop of Henle thin descending limb epithelial cell	41	3	0.0	0.0	0.0	0.0	True
+healthy	kidney outer medulla collecting duct intercalated cell	9	1	0.0	0.0	0.0	0.0	False
+healthy	kidney proximal convoluted tubule epithelial cell	18	2	0.0	0.0	0.0	0.35279451617350405	True
+healthy	kidney resident macrophage	10	1	0.0	0.0	0.0	0.0	False
+healthy	lactocyte	16	1	0.32804509787815234	0.25462343740920923	0.0	0.5664774452366548	False
+healthy	lamp5 GABAergic cortical interneuron	530	7	0.4501314568250796	0.6997738644254909	0.0	0.8667751445162413	True
+healthy	large intestine goblet cell	4	1	0.27579563897395587	0.265931217154853	0.15627554110289346	0.38398200089668144	False
+healthy	large pre-B-II cell	89	5	0.0	0.0	0.0	0.0	True
+healthy	late pro-B cell	85	5	0.0	0.0	0.0	0.0	True
+healthy	late promyelocyte	1	1	0.6894709657635213	0.7894736842105263	0.6894709657635213	0.6894709657635213	False
+healthy	lens epithelial cell	3	1	0.20745941617107727	0.08908685968819599	0.10372970808553864	0.40452709438033096	False
+healthy	lens fiber cell	8	2	0.0	0.0	0.0	0.10461055022001454	True
+healthy	leptomeningeal cell	13	1	7.695442401823984	69.74915761886933	6.912588338647147	8.08174204404706	False
+healthy	leukocyte	375	29	0.0	0.0	0.0	1.318850070617517	True
+healthy	liver dendritic cell	23	1	0.0	0.0	0.0	0.0	False
+healthy	luminal adaptive secretory precursor cell of mammary gland	167	3	0.4652887477766274	0.44543429844098	0.08835398654044754	0.8780745054999797	True
+healthy	luminal cell of prostate epithelium	10	3	0.18208501255522155	0.06095238636622024	0.00017352289735231838	0.3004747261888205	True
+healthy	luminal endometrial multiciliated epithelial cell	4	1	1.5317938510893838	4.54342438911941	1.0832886993720952	2.0931496837665287	False
+healthy	luminal epithelial cell of mammary gland	188	4	0.3879372300770759	0.28701637066506425	0.0	0.9172863209097888	True
+healthy	luminal hormone-sensing cell of mammary gland	167	3	0.1001407076425804	0.06385696040868455	0.0	0.49698934425861485	True
+healthy	lung goblet cell	10	2	0.0	0.0	0.0	0.0	True
+healthy	lung interstitial macrophage	68	4	0.0	0.0	0.0	0.0	True
+healthy	lung macrophage	135	4	0.0	0.0	0.0	0.0	True
+healthy	lung megakaryocyte	16	2	0.0	0.0	0.0	0.0	True
+healthy	lung microvascular endothelial cell	12	1	0.9846216160692031	0.41986461662346813	0.0	1.7138197041385557	False
+healthy	lung multiciliated epithelial cell	59	8	0.0	0.0	0.0	0.28132139102355663	True
+healthy	lung pericyte	83	3	0.0	0.0	0.0	0.0	True
+healthy	lung resident memory CD4-positive, alpha-beta T cell	10	1	0.0	0.0	0.0	0.0	False
+healthy	lung resident memory CD8-positive, alpha-beta T cell	18	2	0.0	0.0	0.0	0.0	True
+healthy	lung secretory cell	117	9	0.0	0.0	0.0	0.0	True
+healthy	lymphocyte	845	28	0.0	0.0	0.0	0.0	True
+healthy	lymphoid lineage restricted progenitor cell	20	3	0.0	0.0	0.0	0.0	True
+healthy	macroglial cell	31	3	3.5279487308649538	2.2598870056497176	0.0	5.5902148657568045	True
+healthy	macrophage	1669	83	0.0	0.0	0.0	0.47950476528177655	True
+healthy	macrophage dendritic cell progenitor	8	1	0.0	0.0	0.0	0.0	False
+healthy	macula densa epithelial cell	10	1	0.0	0.0	0.0	0.0	False
+healthy	male germ cell	1	1	0.9746075550144823	0.8620689655172413	0.9746075550144823	0.9746075550144823	False
+healthy	malignant cell	26	2	0.0	0.0	0.0	0.0	True
+healthy	mammary gland epithelial cell	256	2	0.0	0.0	0.0	0.6509302751035473	True
+healthy	mast cell	1370	74	0.0	0.0	0.0	0.0	True
+healthy	mature B cell	721	10	0.0	0.0	0.0	0.0	True
+healthy	mature NK T cell	462	25	0.0	0.0	0.0	0.0	True
+healthy	mature T cell	1	1	0.0	0.0	0.0	0.0	False
+healthy	mature alpha-beta T cell	33	3	0.0	0.0	0.0	0.0	True
+healthy	mature astrocyte	3	1	3.804306482892333	0.5119453924914675	2.8432177322434757	3.9011801665481904	False
+healthy	mature conventional dendritic cell	33	3	0.0	0.0	0.0	0.0	True
+healthy	mature gamma-delta T cell	90	3	0.0	0.0	0.0	0.0	True
+healthy	mature microglial cell	12	2	0.45678098849402526	0.05993170345252538	0.0	0.9924541569415498	True
+healthy	mature neutrophil	5	1	0.0	0.0	0.0	0.0	False
+healthy	mechanoreceptor cell	3	1	0.0	0.0	0.0	0.0	False
+healthy	medial ganglionic eminence derived GABAergic cortical interneuron	25	1	0.0	0.0	0.0	0.8354727651588534	False
+healthy	medial ganglionic eminence derived interneuron	11	1	0.0	0.0	0.0	0.4822708624962534	False
+healthy	medium spiny neuron	6	1	0.0	0.0	0.0	0.0	False
+healthy	medullary thymic epithelial cell	24	2	0.0	0.0	0.0	0.0	True
+healthy	medullary thymic epithelial cell type 1	9	1	0.0	0.0	0.0	0.3152792102437029	False
+healthy	medullary thymic epithelial cell type 2	8	1	0.599651274626954	0.5405405405405406	0.0	1.5221901413964558	False
+healthy	medullary thymic epithelial cell type 3	8	1	0.0	0.0	0.0	0.45047055300681804	False
+healthy	megakaryocyte	192	20	0.0	0.0	0.0	0.0	True
+healthy	megakaryocyte progenitor cell	57	4	0.0	0.0	0.0	0.0	True
+healthy	megakaryocyte-erythroid progenitor cell	115	9	0.0	0.0	0.0	0.0	True
+healthy	melanocyte	384	17	1.5195574733587809	0.6578947368421053	0.0	3.3157126527186436	True
+healthy	melanocyte of skin	22	2	6.58854789003979	29.548872180451127	5.89275546949854	7.963324260952356	True
+healthy	memory B cell	1933	26	0.0	0.0	0.0	0.0	True
+healthy	memory CCR4-positive regulatory T cell	65	2	0.0	0.0	0.0	0.0	True
+healthy	memory T cell	45	4	0.0	0.0	0.0	0.0	True
+healthy	memory regulatory T cell	65	2	0.0	0.0	0.0	0.0	True
+healthy	meningeal macrophage	24	3	0.8723675825578093	1.5484515484515484	0.0	6.630605142003507	True
+healthy	mesangial cell	44	6	0.0	0.0	0.0	4.586846829032282	True
+healthy	mesenchymal cell	123	9	6.119673166811344	25.494714847590952	4.425871386329027	6.840516559331466	True
+healthy	mesenchymal lymphangioblast	7	1	0.0	0.0	0.0	3.128688241569156	False
+healthy	mesenchymal stem cell	65	4	6.083015338748874	7.547463586137619	3.5810905498765644	7.479178369650647	True
+healthy	mesenchymal stem cell of adipose tissue	16	2	5.995672726934041	16.365869608239617	3.801725090252106	6.632620016098022	True
+healthy	mesenchyme condensation cell	11	1	7.239514110156211	50.0	6.635998695322145	7.559815698806772	False
+healthy	mesodermal cell	27	4	1.3946417426228364	0.6888633754305397	0.23212113044666155	2.6017083512790937	True
+healthy	mesonephric nephron tubule epithelial cell	5	1	0.0	0.0	0.0	0.0	False
+healthy	mesothelial cell	343	22	0.0	0.0	0.0	2.098524799806004	True
+healthy	mesothelial cell of dura mater	4	1	5.757100411068836	53.172348484848484	4.07901392246098	6.141482373770334	False
+healthy	mesothelial cell of epicardium	16	2	1.6456465509616067	0.9318654646324549	1.1310640290469338	3.070946195179592	True
+healthy	mesothelial cell of pleura	24	4	0.0	0.0	0.0	0.0	True
+healthy	metallothionein-positive alveolar macrophage	10	1	0.0	0.0	0.0	0.0	False
+healthy	metamyelocyte	12	1	0.0	0.0	0.0	0.0	False
+healthy	microcirculation associated smooth muscle cell	6	1	1.3207400601650876	1.510754523728235	0.7007475423080138	1.7480291889973072	False
+healthy	microfold cell of epithelium of small intestine	1	1	0.0	0.0	0.0	0.0	False
+healthy	microglial cell	1048	38	0.0	0.0	0.0	1.5846509458869573	True
+healthy	midget ganglion cell of retina	16	2	0.13095089500021279	0.10686890609978007	0.0	0.24907205376178987	True
+healthy	midzonal region hepatocyte	36	3	0.0	0.0	0.0	0.0	True
+healthy	migratory enteric neural crest cell	7	1	5.579854889880139	35.294117647058826	1.4415036988604217	6.678386960509824	False
+healthy	monocyte	1023	56	0.0	0.0	0.0	0.0	True
+healthy	monocyte-derived dendritic cell	11	2	0.0	0.0	0.0	0.02882788565658636	True
+healthy	mononuclear leukocyte	5	1	0.0	0.0	0.0	1.6161082329465148	False
+healthy	mononuclear phagocyte	126	10	0.0	0.0	0.0	0.0	True
+healthy	motor neuron	10	2	0.0	0.0	0.0	2.7667561926621387	True
+healthy	mucosa-associated lymphoid tissue macrophage	13	1	1.4157317879189946	1.36986301369863	0.5801036401825802	2.501351703592446	False
+healthy	mucosal invariant T cell	1825	21	0.0	0.0	0.0	0.0	True
+healthy	mucous neck cell of gastric gland	62	2	0.0	0.0	0.0	0.0	True
+healthy	mucus secreting cell	51	6	0.0	0.0	0.0	0.0	True
+healthy	mucus secreting cell of bronchus submucosal gland	7	1	0.0	0.0	0.0	0.0	False
+healthy	mucus secreting cell of tracheobronchial tree submucosal gland	12	2	0.0	0.0	0.0	0.0	True
+healthy	multiciliated columnar cell of tracheobronchial tree	232	3	0.0	0.0	0.0	0.0	True
+healthy	multiciliated epithelial cell	180	3	0.0	0.0	0.0	0.0	True
+healthy	multiciliated epithelial cell of the bronchus	26	2	0.0	0.0	0.0	0.0	True
+healthy	mural cell	265	17	2.6677903353881582	1.8181818181818181	0.0	4.150762114674011	True
+healthy	muscle cell	70	7	1.7460348601451003	0.7874015748031497	0.0	2.928965018329595	True
+healthy	muscle precursor cell	7	1	0.0	0.0	0.0	4.071798883898041	False
+healthy	myelinating Schwann cell	225	7	0.0	0.0	0.0	0.0	True
+healthy	myelocyte	37	6	0.0	0.0	0.0	0.0	True
+healthy	myeloid cell	976	23	0.0	0.0	0.0	0.0	True
+healthy	myeloid dendritic cell	158	6	0.0	0.0	0.0	0.0	True
+healthy	myeloid dendritic cell, human	39	2	0.0	0.0	0.0	0.0	True
+healthy	myeloid leukocyte	48	5	0.0	0.0	0.0	0.0	True
+healthy	myeloid lineage restricted progenitor cell	27	3	0.0	0.0	0.0	2.188809657807186	True
+healthy	myo-medullary thymic epithelial cell	9	2	0.0	0.0	0.0	0.38062460582669483	True
+healthy	myoblast	27	2	1.176376279532069	1.5625	0.0	2.980321659941488	True
+healthy	myoepithelial cell	35	6	0.0	0.0	0.0	0.11160158964101222	True
+healthy	myoepithelial cell of bronchus submucosal gland	5	1	0.0	0.0	0.0	0.0	False
+healthy	myometrial cell	2	1	6.643037524882381	30.445650840387685	6.298355711493834	6.987719338270928	False
+healthy	naive B cell	2164	31	0.0	0.0	0.0	0.0	True
+healthy	naive T cell	97	4	0.0	0.0	0.0	0.0	True
+healthy	naive regulatory T cell	65	2	0.0	0.0	0.0	0.0	True
+healthy	naive thymus-derived CD4-positive, alpha-beta T cell	2067	26	0.0	0.0	0.0	0.0	True
+healthy	naive thymus-derived CD8-positive, alpha-beta T cell	1932	23	0.0	0.0	0.0	0.0	True
+healthy	nasal mucosa goblet cell	171	3	0.0	0.0	0.0	0.0	True
+healthy	natural T-regulatory cell	25	1	0.0	0.0	0.0	0.0	False
+healthy	natural killer cell	3487	89	0.0	0.0	0.0	0.0	True
+healthy	near-projecting glutamatergic cortical neuron	91	4	0.6267408190408952	1.5570934256055364	0.3259449496643511	0.8595963183834402	True
+healthy	neoplastic cell	40	1	0.0	0.0	0.0	0.0	False
+healthy	neural cell	221	9	1.9243536336132452	1.0638297872340425	0.0	3.1424093057117473	True
+healthy	neural crest cell	35	4	0.21060680403526263	0.21367521367521367	0.0	3.967765721365361	True
+healthy	neural progenitor cell	71	8	1.1293169680783899	0.4694835680751174	0.0	2.837747752575289	True
+healthy	neuro-medullary thymic epithelial cell	14	2	0.0	0.0	0.0	3.0781395346178866	True
+healthy	neuroblast (sensu Nematoda and Protostomia)	34	2	0.7612919216757564	0.31818633787411754	0.4715238440009346	1.0030557080935198	True
+healthy	neuroblast (sensu Vertebrata)	80	6	0.3215748371786793	0.09564824494731229	0.0	0.9105531878525901	True
+healthy	neuroendocrine cell	33	4	0.0	0.0	0.0	0.0	True
+healthy	neuron	239	27	0.0	0.0	0.0	2.198690959752372	True
+healthy	neuron associated cell	18	2	2.2977239554383617	1.6344132782488945	0.0	4.872074673862199	True
+healthy	neuron associated cell (sensu Vertebrata)	5	1	2.3819002378814744	0.35082590264581204	2.358982346971856	2.695855856503204	False
+healthy	neuronal receptor cell	4	1	2.2400472924213917	0.752112676056338	1.6647003909583327	2.5145728609238995	False
+healthy	neuronal-restricted precursor	11	1	1.7667023765028516	1.492537313432836	0.0	2.5315111194223068	False
+healthy	neuroplacodal cell	8	1	0.0	0.0	0.0	0.0	False
+healthy	neutrophil	367	33	0.0	0.0	0.0	0.0	True
+healthy	neutrophil progenitor cell	15	3	0.0	0.0	0.0	0.0	True
+healthy	non-classical monocyte	625	26	0.0	0.0	0.0	0.0	True
+healthy	non-myelinating Schwann cell	178	4	0.0	0.0	0.0	0.5836755214943369	True
+healthy	non-pigmented ciliary epithelial cell	77	2	1.290492204769897	0.7099391480730223	0.7691887549394179	2.094373813349469	True
+healthy	noradrenergic cell	10	1	0.0	0.0	0.0	0.0	False
+healthy	odontoblast	6	2	0.0	0.0	0.0	0.0	True
+healthy	oligodendrocyte	885	33	2.3724332997021933	1.6811955168119552	1.7194748449746575	2.9089662284424835	True
+healthy	oligodendrocyte precursor cell	923	32	0.5396381253770036	0.32210211830120955	0.0	1.0932436708465338	True
+healthy	oocyte	1	1	0.012605272382788768	5.555555555555555	0.012605272382788768	0.012605272382788768	False
+healthy	orthochromatic erythroblast	45	1	0.0	0.0	0.0	0.0	False
+healthy	osteoblast	32	2	4.703727745352815	21.04185481610663	3.849418097546383	5.8872897764552174	True
+healthy	osteoclast	12	2	0.45727673219034765	0.7627293341579056	0.0	1.063242129568275	True
+healthy	ovarian surface epithelial cell	27	2	0.4426300699028109	0.46296296296296297	0.0	1.2391340823214092	True
+healthy	pancreatic A cell	47	5	7.032750517462539	53.93258426966292	5.397703934226657	8.178010194510907	True
+healthy	pancreatic D cell	47	5	1.7040075926089755	2.4193548387096775	0.4525763999601884	2.129285223405958	True
+healthy	pancreatic PP cell	26	4	2.5801892185993225	1.917562724014337	0.0	3.4367558343198272	True
+healthy	pancreatic acinar cell	43	4	0.28968762617567645	0.20964360587002095	0.0	1.3646372699426417	True
+healthy	pancreatic ductal cell	54	6	0.6586315539144463	0.3035331507030713	0.0	1.4870780033205677	True
+healthy	pancreatic epsilon cell	31	2	0.0	0.0	0.0	0.0	True
+healthy	pancreatic stellate cell	44	4	6.986049636009473	60.94444444444444	5.790835563527469	8.095668417273547	True
+healthy	paneth cell	63	2	0.0	0.0	0.0	0.0	True
+healthy	paneth cell of colon	3	1	0.0	0.0	0.0	0.0	False
+healthy	paneth cell of epithelium of small intestine	9	3	0.009976795488435	0.2898550724637681	0.0	0.23247900680695846	True
+healthy	papillary tips cell	7	1	0.0	0.0	0.0	0.0	False
+healthy	parasol ganglion cell of retina	1	1	0.0	0.0	0.0	0.0	False
+healthy	parietal cell	53	2	0.0	0.0	0.0	0.0	True
+healthy	parietal epithelial cell	93	7	0.0	0.0	0.0	0.0	True
+healthy	peg cell	10	1	0.9586998642022668	1.0383856694503626	0.5054056445293624	1.832236074955507	False
+healthy	peptic cell	53	3	0.0	0.0	0.0	0.0	True
+healthy	pericyte	1579	63	0.0	0.0	0.0	2.0265126935459743	True
+healthy	peridermal cell	25	1	0.0	0.0	0.0	2.9189745860005316	False
+healthy	perineurial cell	14	1	0.0	0.0	0.0	0.0	False
+healthy	peripheral blood mononuclear cell	92	1	0.0	0.0	0.0	0.0	False
+healthy	peripheral nervous system neuron	18	2	0.0	0.0	0.0	1.0286427413329953	True
+healthy	periportal region hepatocyte	36	3	0.0	0.0	0.0	0.0	True
+healthy	peritubular capillary endothelial cell	11	1	0.0	0.0	0.0	1.0844155243750975	False
+healthy	peritubular myoid cell	1	1	1.7169368639435998	1.492537313432836	1.7169368639435998	1.7169368639435998	False
+healthy	perivascular cell	194	6	1.143191028160147	0.48455374888495906	0.3589309354332702	2.2619847931716492	True
+healthy	perivascular macrophage	415	4	0.0	0.0	0.0	0.0	True
+healthy	photoreceptor cell	5	1	5.354874172579001	1.500441306266549	5.202100929352121	5.536420276267783	False
+healthy	pigmented ciliary epithelial cell	78	2	0.4875951668723667	0.15376018225976315	0.3054895690125781	0.8815330937238399	True
+healthy	pigmented epithelial cell	31	3	0.0	0.0	0.0	1.285775028705354	True
+healthy	pinealocyte	10	1	4.427122794365091	13.932318104906937	0.6306843927804524	5.622372230372818	False
+healthy	placental villous trophoblast	50	3	1.4595834246127448	2.449688776874021	0.0	2.5972357338708925	True
+healthy	plasma cell	1448	57	0.0	0.0	0.0	0.0	True
+healthy	plasmablast	1115	20	0.0	0.0	0.0	0.0	True
+healthy	plasmacytoid dendritic cell	1916	57	0.0	0.0	0.0	0.0	True
+healthy	plasmacytoid dendritic cell, human	140	8	0.0	0.0	0.0	0.0	True
+healthy	platelet	1370	21	0.0	0.0	0.0	0.0	True
+healthy	pluripotent stem cell	8	1	1.5664052879392958	1.7455443626501357	0.8957301848258555	2.865456795924401	False
+healthy	podocyte	109	11	0.0	0.0	0.0	0.0	True
+healthy	polychromatophilic erythroblast	45	1	0.0	0.0	0.0	0.0	False
+healthy	pre-B-I cell	9	1	0.0	0.0	0.0	0.0	False
+healthy	pre-conventional dendritic cell	446	4	0.0	0.0	0.0	0.0	True
+healthy	pre-natural killer cell	1	1	0.0	0.0	0.0	0.0	False
+healthy	preadipocyte	22	1	6.804283848885316	17.41759829354001	6.077995156086304	7.443917842858129	False
+healthy	precursor B cell	105	10	0.0	0.0	0.0	0.0	True
+healthy	precursor cell	11	2	4.623574604531099	20.833333333333332	4.081847938912928	5.380625179086756	True
+healthy	preosteoblast	9	1	4.915566270842303	24.324324324324323	4.5577657797931845	5.157181776286946	False
+healthy	primary cultured cell	4	1	0.0	0.0	0.0	0.0	False
+healthy	primary sensory neuron (sensu Teleostei)	7	1	0.0	0.0	0.0	3.968628389264752	False
+healthy	primitive red blood cell	38	4	0.0	0.0	0.0	1.165211302654339	True
+healthy	primordial germ cell	25	1	0.0	0.0	0.0	0.0	False
+healthy	pro-B cell	131	12	0.0	0.0	0.0	0.0	True
+healthy	pro-T cell	20	3	0.0	0.0	0.0	0.0	True
+healthy	proerythroblast	7	1	0.0	0.0	0.0	0.0	False
+healthy	professional antigen presenting cell	58	4	0.0	0.0	0.0	0.0	True
+healthy	progenitor cell	309	16	0.0	0.0	0.0	0.0	True
+healthy	progenitor cell of endocrine pancreas	10	1	0.0	0.0	0.0	0.0	False
+healthy	progenitor cell of mammary luminal epithelium	18	2	0.13855517656310024	0.0631802055340429	0.0	0.4287710205753324	True
+healthy	promonocyte	87	5	0.0	0.0	0.0	0.0	True
+healthy	promyelocyte	49	5	0.0	0.0	0.0	0.0	True
+healthy	prostate gland microvascular endothelial cell	3	1	1.3742301131089978	1.0128913443830572	0.6871150565544989	2.3515836128008654	False
+healthy	pulmonary alveolar epithelial cell	77	3	0.0	0.0	0.0	0.0	True
+healthy	pulmonary alveolar type 1 cell	242	14	0.0	0.0	0.0	0.0	True
+healthy	pulmonary alveolar type 2 cell	279	15	0.0	0.0	0.0	0.22464940334921002	True
+healthy	pulmonary artery endothelial cell	127	3	0.0	0.0	0.0	0.0	True
+healthy	pulmonary capillary endothelial cell	56	3	0.0	0.0	0.0	0.0	True
+healthy	pulmonary ionocyte	72	7	0.0	0.0	0.0	0.0	True
+healthy	pulmonary neuroendocrine cell	118	8	0.0	0.0	0.0	0.0	True
+healthy	pvalb GABAergic cortical interneuron	543	8	0.5467676049504254	1.0309278350515463	0.1454195675372682	0.8663251163919596	True
+healthy	radial glial cell	60	6	2.158079188262786	1.8387397771557166	1.4226430835958987	3.506598824606683	True
+healthy	regular atrial cardiac myocyte	44	5	0.27274032908506207	0.06644328717768458	0.0	0.6837863149912881	True
+healthy	regular ventricular cardiac myocyte	54	3	0.2944412170869939	0.09140516534070495	0.07304879794248453	0.7079687784815625	True
+healthy	regulatory T cell	2178	38	0.0	0.0	0.0	0.0	True
+healthy	renal alpha-intercalated cell	51	6	0.0	0.0	0.0	0.0	True
+healthy	renal beta-intercalated cell	54	7	0.0	0.0	0.0	0.0	True
+healthy	renal intercalated cell	27	3	0.0	0.0	0.0	0.0	True
+healthy	renal interstitial pericyte	54	3	0.0	0.0	0.0	2.8258535585773066	True
+healthy	renal principal cell	56	7	0.0	0.0	0.0	0.0	True
+healthy	respiratory basal cell	209	6	0.0	0.0	0.0	0.0	True
+healthy	respiratory tract epithelial cell	38	3	0.0	0.0	0.0	0.0	True
+healthy	respiratory tract goblet cell	15	2	0.0	0.0	0.0	0.0	True
+healthy	respiratory tract hillock cell	77	1	0.0	0.0	0.0	0.0	False
+healthy	respiratory tract multiciliated cell	7	1	0.0	0.0	0.0	0.0	False
+healthy	respiratory tract suprabasal cell	41	4	0.0	0.0	0.0	0.0	True
+healthy	reticular cell	6	1	0.0	0.0	0.0	0.0	False
+healthy	reticulocyte	40	3	0.0	0.0	0.0	2.0022248125512876	True
+healthy	retina horizontal cell	73	11	0.966051652759166	0.36764705882352944	0.0	2.172906132411026	True
+healthy	retinal astrocyte	57	3	0.0	0.0	0.0	2.197438621721092	True
+healthy	retinal bipolar neuron	130	6	3.732464276124671	4.444444444444445	1.9295866331001206	5.849233869339651	True
+healthy	retinal blood vessel endothelial cell	10	3	1.8611925015073791	5.409060175794456	0.3332858945010603	3.231184782686765	True
+healthy	retinal cell	1	1	4.10849489755139	7.407407407407407	4.10849489755139	4.10849489755139	False
+healthy	retinal cone cell	190	12	0.5455859000179186	0.33609956943861347	0.0	1.0757830647092472	True
+healthy	retinal ganglion cell	203	15	0.4696774206706143	0.30464584920030463	0.0	1.9513470535405997	True
+healthy	retinal pigment epithelial cell	146	7	4.613567675124514	9.025520645238956	2.476494808523655	6.169339586945588	True
+healthy	retinal progenitor cell	36	2	4.2187253945004715	4.814389377268967	2.9647477725458247	5.59323639705644	True
+healthy	retinal rod cell	201	12	1.0447327760787648	0.38001707941929974	0.4735164370666745	1.5535700388297065	True
+healthy	rod bipolar cell	147	6	0.7977591399457895	0.4106776180698152	0.0	1.3335430834632556	True
+healthy	salivary gland cell	5	1	0.008720105506081526	0.851063829787234	0.0	0.7013593773532408	False
+healthy	sebaceous gland cell	3	1	0.0	0.0	0.0	0.0	False
+healthy	sebocyte	6	2	0.0	0.0	0.0	0.1539219231534904	True
+healthy	secondary lens fiber	3	1	0.0	0.0	0.0	0.14297884620396764	False
+healthy	secondary lymphoid organ macrophage	18	1	3.8338444929243085	1.5317962891695531	2.8256451162882144	4.713109275452786	False
+healthy	secretory cell	115	8	0.0	0.0	0.0	0.18013996159539947	True
+healthy	sensory neuron	4	1	2.9057984770421434	4.143713777471739	2.4999639891654146	3.405677463212492	False
+healthy	sensory neuron of dorsal root ganglion	12	2	0.0	0.0	0.0	0.3273097494748591	True
+healthy	seromucus secreting cell	2	1	0.0	0.0	0.0	0.0	False
+healthy	serotonergic neuron	4	1	0.0	0.0	0.0	0.2491476936463767	False
+healthy	serous cell of epithelium of bronchus	2	1	0.0	0.0	0.0	0.0	False
+healthy	serous cell of epithelium of lobular bronchiole	12	1	0.0	0.0	0.0	0.0	False
+healthy	serous cell of epithelium of trachea	5	1	0.0	0.0	0.0	0.0	False
+healthy	serous secreting cell	33	4	0.0	0.0	0.0	0.0	True
+healthy	serous secreting cell of bronchus submucosal gland	15	2	0.0	0.0	0.0	0.0	True
+healthy	skeletal muscle fiber	15	3	1.2394963607945344	0.5050505050505051	0.5243048814123514	4.508483885339172	True
+healthy	skeletal muscle myoblast	25	1	2.462968547794611	3.717472118959108	2.0066397758576113	3.213844952160189	False
+healthy	skeletal muscle satellite cell	35	5	1.9500114764864644	0.6329113924050633	0.0	4.363885525572374	True
+healthy	skeletal muscle satellite stem cell	49	3	2.3441760812497554	1.183540649766441	0.19344693568831192	3.3348128695525414	True
+healthy	slow muscle cell	32	4	1.368539780512871	0.3808561433366425	0.0	2.12192688008782	True
+healthy	small intestine goblet cell	9	3	0.7232123996243627	0.45871559633027525	0.012726008984118893	1.2107496037871632	True
+healthy	small pre-B-II cell	82	6	0.0	0.0	0.0	0.0	True
+healthy	smooth muscle cell	942	43	0.0	0.0	0.0	1.397124419450769	True
+healthy	smooth muscle cell of prostate	7	2	1.5392763671179621	0.2801120448179272	0.0	1.7883550201266885	True
+healthy	smooth muscle cell of sphincter of pupil	6	1	4.697084713037013	12.373249637856109	4.114930605569281	5.113175466480291	False
+healthy	smooth muscle cell of the brain vasculature	9	1	0.0	0.0	0.0	0.0	False
+healthy	smooth muscle cell of the pulmonary artery	10	1	0.0	0.0	0.0	2.3296549392689276	False
+healthy	smooth muscle myoblast	4	1	2.418137965944399	0.9946184893330772	2.1593131200247386	3.0100914575565803	False
+healthy	sncg GABAergic cortical interneuron	91	4	0.9310356043265333	1.023600243972714	0.0	1.3203855916316927	True
+healthy	spermatid	1	1	1.4737586251056178	1.6961835869294088	1.4737586251056178	1.4737586251056178	False
+healthy	spermatocyte	1	1	3.730440831358974	15.993485342019545	3.730440831358974	3.730440831358974	False
+healthy	spermatogonium	1	1	0.0	0.0	0.0	0.0	False
+healthy	spinal cord radial glial cell	6	1	0.0	0.0	0.0	0.0	False
+healthy	spinous cell of epidermis	9	1	0.0	0.0	0.0	0.06366014495902256	False
+healthy	squamous epithelial cell	71	5	0.0	0.0	0.0	0.0	True
+healthy	sst GABAergic cortical interneuron	538	8	0.5839701930487611	0.7067137809187279	0.0	0.9744385257210965	True
+healthy	sst chodl GABAergic cortical interneuron	12	1	0.0	0.0	0.0	0.0	False
+healthy	starburst amacrine cell	113	2	0.0	0.0	0.0	1.5726912968146218	True
+healthy	stellate neuron	5	1	5.151108785650424	2.7225635465606555	4.306957701430369	5.441714836774995	False
+healthy	stem cell	147	8	0.0	0.0	0.0	0.10395856563541954	True
+healthy	stem cell of epidermis	5	1	1.6551294515563697	0.746268656716418	0.4978156248035403	1.9051294246797075	False
+healthy	stratified epithelial cell	20	2	0.0	0.0	0.0	0.0	True
+healthy	stratified squamous epithelial cell	5	1	0.10663979399495076	0.2028397565922921	0.017371223357960458	0.261682878728874	False
+healthy	striated cell of salivary gland	2	1	0.29177115239585494	0.08849557522123894	0.14588557619792747	0.4376567285937824	False
+healthy	stromal cell	225	15	4.575212485811765	3.0434782608695654	0.0	6.462937204413661	True
+healthy	stromal cell of bone marrow	27	1	0.0	0.0	0.0	0.0	False
+healthy	stromal cell of endometrium	16	2	6.686094590914191	41.21621621621622	0.0	8.657813515418447	True
+healthy	stromal cell of lamina propria of small intestine	2	1	4.19169322334673	12.5	2.095846611673365	6.2875398350200955	False
+healthy	stromal cell of ovary	26	4	5.835387290176589	28.04268065105863	1.5051575354568834	6.348999497801473	True
+healthy	stromal cell of pancreas	11	1	3.663253471073505	2.9411764705882355	1.9126664068830985	4.004389218715388	False
+healthy	subcutaneous adipocyte	13	2	1.8878124624495414	1.383399209486166	0.0	2.6938181353359445	True
+healthy	supporting cell	61	2	1.0242627980928116	0.591715976331361	0.0	3.6412274350142693	True
+healthy	supporting cell of vestibular epithelium	2	1	0.0	0.0	0.0	0.5838736034335977	False
+healthy	suprabasal keratinocyte	20	1	6.3619387219515104	24.586466165413533	4.615928273009852	7.177714007517047	False
+healthy	sympathetic neuron	7	1	0.0	0.0	0.0	0.783400206172945	False
+healthy	syncytiotrophoblast cell	49	3	1.4057121303003905	0.17301038062283736	0.0	2.686743815683703	True
+healthy	taste receptor cell	13	2	0.0	0.0	0.0	1.068645734213994	True
+healthy	tendon cell	43	3	5.180690376182411	16.27906976744186	4.123328863473667	6.3331387956210285	True
+healthy	thalamic excitatory neuron	2	1	2.1527354324265757	1.313522825150732	1.491260149015786	2.814210715837366	False
+healthy	theca cell	16	3	0.44196205283636936	0.06510416666666667	0.0	2.4014560409746877	True
+healthy	thymocyte	21	5	0.0	0.0	0.0	0.03917795584033943	True
+healthy	thyroid follicular cell	3	1	0.0	0.0	0.0	0.0	False
+healthy	tip cell	11	1	0.0	0.0	0.0	0.6001345212642613	False
+healthy	tissue-resident macrophage	4	1	0.08396151932203495	0.1529051987767584	0.0	2.348542150163833	False
+healthy	tongue muscle cell	3	1	0.02516662756732842	0.7874015748031497	0.01258331378366421	0.6873526860255074	False
+healthy	tonsil germinal center B cell	7	1	0.0	0.0	0.0	0.0	False
+healthy	trabecular meshwork cell	84	1	4.354425408620793	4.203034081463009	3.482205811993917	5.129639870377944	False
+healthy	tracheal goblet cell	52	3	0.0	0.0	0.0	0.0	True
+healthy	tracheobronchial goblet cell	53	1	0.0	0.0	0.0	0.0	False
+healthy	tracheobronchial serous cell	49	3	0.0	0.0	0.0	0.0	True
+healthy	tracheobronchial smooth muscle cell	136	5	0.0	0.0	0.0	0.0	True
+healthy	transit amplifying cell	114	5	0.0	0.0	0.0	0.0	True
+healthy	transit amplifying cell of colon	19	3	0.0	0.0	0.0	0.0	True
+healthy	transit amplifying cell of small intestine	7	3	0.0	0.0	0.0	0.042850285476841755	True
+healthy	transitional stage B cell	1068	4	0.0	0.0	0.0	0.0	True
+healthy	trophoblast giant cell	9	2	0.0	0.0	0.0	4.104869372368438	True
+healthy	tuft cell	99	3	0.0	0.0	0.0	0.0	True
+healthy	tuft cell of colon	60	4	0.0	0.0	0.0	0.0	True
+healthy	tuft cell of small intestine	37	2	0.0	0.0	0.0	0.0	True
+healthy	type A enteroendocrine cell	8	1	8.685079780393805	66.87334423087762	8.135527283349075	9.252954737780785	False
+healthy	type B pancreatic cell	57	7	1.17655121275881	2.5316455696202533	0.39275519040117246	1.9679647938895612	True
+healthy	type D enteroendocrine cell	15	2	0.0	0.0	0.0	0.0	True
+healthy	type EC enteroendocrine cell	77	3	0.0	0.0	0.0	0.0	True
+healthy	type G enteroendocrine cell	29	2	0.0	0.0	0.0	0.0	True
+healthy	type I enteroendocrine cell	7	1	0.0	0.0	0.0	0.0	False
+healthy	type I muscle cell	17	1	0.0	0.0	0.0	0.159557568843741	False
+healthy	type II muscle cell	16	1	0.0	0.0	0.0	0.0681873876479886	False
+healthy	type L enteroendocrine cell	53	3	2.775629617723874	2.7027027027027026	0.0	4.6127541712109785	True
+healthy	type N enteroendocrine cell	7	1	0.0	0.0	0.0	0.0	False
+healthy	type X enteroendocrine cell	28	1	0.0	0.0	0.0	0.0	False
+healthy	umbrella cell of urothelium	11	2	0.0	0.0	0.0	0.0	True
+healthy	unipolar brush cell	18	2	1.1617048307832545	0.07264221544537568	0.0	2.535925103089548	True
+healthy	unknown	1023	51	0.0	0.0	0.0	1.6311989040080639	True
+healthy	unswitched memory B cell	181	6	0.0	0.0	0.0	0.0	True
+healthy	urothelial cell	12	2	0.0	0.0	0.0	0.0	True
+healthy	uterine smooth muscle cell	49	3	5.395732989972984	14.424410540915396	0.0	6.3481870010706345	True
+healthy	vasa recta ascending limb cell	28	3	0.0	0.0	0.0	2.362077473513077	True
+healthy	vasa recta descending limb cell	25	3	0.0	0.0	0.0	0.0	True
+healthy	vascular associated smooth muscle cell	502	26	0.0	0.0	0.0	2.23762781274111	True
+healthy	vascular leptomeningeal cell	503	8	5.377087124313448	12.5	2.842399211124673	6.502540953428404	True
+healthy	vascular lymphangioblast	16	1	1.5510263532538435	1.0522062567803927	0.6180460881816894	1.8791740436316484	False
+healthy	vein endothelial cell	689	27	0.0	0.0	0.0	2.0985216683683423	True
+healthy	vein endothelial cell of respiratory system	77	4	0.0	0.0	0.0	2.6463770984506647	True
+healthy	ventricular cardiac muscle cell	19	3	0.0	0.0	0.0	0.04315175478440101	True
+healthy	vestibular dark cell	2	1	0.0	0.0	0.0	1.2571918024917463	False
+healthy	visceromotor neuron	13	1	0.0	0.0	0.0	0.0	False
+primary_cancer	B cell	524	18	0.0	0.0	0.0	0.0	True
+primary_cancer	BEST4+ colonocyte	9	1	0.0	0.0	0.0	0.0	False
+primary_cancer	BEST4+ enterocyte	12	1	0.0	0.0	0.0	0.0	False
+primary_cancer	CD14-positive monocyte	6	1	0.0	0.0	0.0	0.0	False
+primary_cancer	CD14-positive, CD16-positive monocyte	6	1	0.0	0.0	0.0	0.0	False
+primary_cancer	CD16-negative, CD56-bright natural killer cell, human	34	1	0.0	0.0	0.0	0.0	False
+primary_cancer	CD16-positive, CD56-dim natural killer cell, human	32	1	0.0	0.0	0.0	0.0	False
+primary_cancer	CD1c-positive myeloid dendritic cell	150	2	0.0	0.0	0.0	0.0	True
+primary_cancer	CD4-positive helper T cell	12	1	0.0	0.0	0.0	0.0	False
+primary_cancer	CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell	58	1	0.0	0.0	0.0	0.0	False
+primary_cancer	CD4-positive, CD25-positive, alpha-beta regulatory T cell	72	2	0.0	0.0	0.0	0.0	True
+primary_cancer	CD4-positive, alpha-beta T cell	298	9	0.0	0.0	0.0	0.0	True
+primary_cancer	CD4-positive, alpha-beta memory T cell	43	2	0.0	0.0	0.0	0.0	True
+primary_cancer	CD8-positive, CD28-negative, alpha-beta regulatory T cell	9	1	0.0	0.0	0.0	0.0	False
+primary_cancer	CD8-positive, alpha-beta T cell	267	6	0.0	0.0	0.0	0.0	True
+primary_cancer	CD8-positive, alpha-beta cytotoxic T cell	5	1	0.0	0.0	0.0	0.0	False
+primary_cancer	CD8-positive, alpha-beta memory T cell	93	2	0.0	0.0	0.0	0.0	True
+primary_cancer	CD8-positive, alpha-beta memory T cell, CD45RO-positive	8	1	5.119597551906457	8.945689988403556	4.667493678308833	5.554950951634733	False
+primary_cancer	CD8-positive, alpha-beta regulatory T cell	52	1	0.0	0.0	0.0	0.0	False
+primary_cancer	IgA plasma cell	92	3	0.0	0.0	0.0	0.0	True
+primary_cancer	IgG plasma cell	165	4	0.0	0.0	0.0	0.0	True
+primary_cancer	IgM plasma cell	35	1	0.0	0.0	0.0	0.0	False
+primary_cancer	Langerhans cell	23	1	0.0	0.0	0.0	0.0	False
+primary_cancer	MHC-II-positive classical monocyte	10	1	0.0	0.0	0.0	0.0	False
+primary_cancer	Schwann cell	36	3	0.0	0.0	0.0	5.7947310586621805	True
+primary_cancer	T cell	366	15	0.0	0.0	0.0	0.907678170056301	True
+primary_cancer	T follicular helper cell	142	5	0.0	0.0	0.0	0.0	True
+primary_cancer	T-helper 17 cell	97	3	0.0	0.0	0.0	0.0	True
+primary_cancer	TREM2-positive macrophage	34	1	0.0	0.0	0.0	0.0	False
+primary_cancer	abnormal cell	18	3	0.2555311773650639	0.1233226067853204	0.0	0.8730037695737	True
+primary_cancer	activated CD4-positive, alpha-beta T cell	62	1	0.0	0.0	0.0	0.0	False
+primary_cancer	activated CD4-positive, alpha-beta T cell, human	6	1	0.0	0.0	0.0	0.0	False
+primary_cancer	activated CD8-positive, alpha-beta T cell	6	1	0.0	0.0	0.0	2.3759278887136093	False
+primary_cancer	activated CD8-positive, alpha-beta T cell, human	6	1	0.0	0.0	0.0	0.0	False
+primary_cancer	activated type II NK T cell	10	1	0.0	0.0	0.0	0.0	False
+primary_cancer	adipocyte	2	1	2.7701858242094364	2.4216365125456036	2.4479935918645843	3.0923780565542884	False
+primary_cancer	alveolar macrophage	154	2	0.0	0.0	0.0	0.0	True
+primary_cancer	astrocyte	31	3	0.0	0.0	0.0	3.2219433555520562	True
+primary_cancer	basal cell	8	1	4.764586781257897	11.05210145591063	4.474420671677128	5.061322155421438	False
+primary_cancer	basal cell of epidermis	8	1	6.018476599807592	24.07729468599034	5.188806068676454	6.127079663219082	False
+primary_cancer	basal cell of prostate epithelium	24	1	0.0	0.0	0.0	0.7799698457763756	False
+primary_cancer	basal-myoepithelial cell of mammary gland	16	2	0.10827456929180815	0.07710100231303008	0.0	1.792461989935602	True
+primary_cancer	blood vessel endothelial cell	25	2	2.6432408956661737	4.270462633451957	0.0	4.54757619505449	True
+primary_cancer	blood vessel smooth muscle cell	3	1	5.201635485210631	7.262569832402234	4.125414486809554	7.061314098745083	False
+primary_cancer	brush cell of tracheobronchial tree	2	1	0.0	0.0	0.0	0.0	False
+primary_cancer	capillary endothelial cell	204	6	0.0	0.0	0.0	3.8531588950728795	True
+primary_cancer	central memory CD8-positive, alpha-beta T cell	11	1	0.0	0.0	0.0	0.0	False
+primary_cancer	chondrocyte	7	2	6.885827984953537	25.0	3.3842086729049248	7.1102345577496795	True
+primary_cancer	ciliated epithelial cell	15	1	0.0	0.0	0.0	0.0	False
+primary_cancer	class switched memory B cell	8	1	0.0	0.0	0.0	0.0	False
+primary_cancer	classical monocyte	172	4	0.0	0.0	0.0	0.0	True
+primary_cancer	club cell	100	2	0.0	0.0	0.0	0.0	True
+primary_cancer	club-like cell of the urethral epithelium	24	1	0.0	0.0	0.0	0.24165731058753612	False
+primary_cancer	collagen secreting cell	9	1	0.0	0.0	0.0	0.0	False
+primary_cancer	colon endothelial cell	60	1	5.492448203411886	30.74074074074074	4.686429313809125	6.068635998648638	False
+primary_cancer	colon goblet cell	70	2	0.0	0.0	0.0	1.2995521492511837	True
+primary_cancer	colonocyte	84	3	0.0	0.0	0.0	0.0	True
+primary_cancer	conventional dendritic cell	302	9	0.0	0.0	0.0	0.0	True
+primary_cancer	cortical cell of adrenal gland	10	1	0.6148673621047203	0.4180511656806332	0.0	2.108065444107906	False
+primary_cancer	cycling T cell	90	2	0.0	0.0	0.0	0.0	True
+primary_cancer	cycling macrophage	61	1	0.0	0.0	0.0	1.2404752765805946	False
+primary_cancer	cycling stromal cell	30	1	6.349071171570451	33.333333333333336	3.5806759899793366	7.671225245849106	False
+primary_cancer	cytotoxic T cell	39	3	0.0	0.0	0.0	2.1905849914497972	True
+primary_cancer	dendritic cell	402	9	0.0	0.0	0.0	0.0	True
+primary_cancer	dendritic cell, human	42	3	0.0	0.0	0.0	0.0	True
+primary_cancer	early colonocyte	18	1	0.0	0.0	0.0	0.0	False
+primary_cancer	effector CD4-positive, alpha-beta T cell	6	1	0.0	0.0	0.0	0.0	False
+primary_cancer	effector CD8-positive, alpha-beta T cell	61	1	0.0	0.0	0.0	0.0	False
+primary_cancer	effector memory CD4-positive, alpha-beta T cell	64	2	0.0	0.0	0.0	0.0	True
+primary_cancer	effector memory CD8-positive, alpha-beta T cell	99	3	0.0	0.0	0.0	0.0	True
+primary_cancer	elicited macrophage	8	1	0.0	0.0	0.0	0.0	False
+primary_cancer	endothelial cell	484	19	4.376097850648051	8.558906396744234	0.0	5.526598771992058	True
+primary_cancer	endothelial cell of artery	136	3	5.477443067403955	16.666666666666668	0.0	6.297232430306421	True
+primary_cancer	endothelial cell of hepatic sinusoid	1	1	0.0	0.0	0.0	0.0	False
+primary_cancer	endothelial cell of lymphatic vessel	187	10	0.0	0.0	0.0	0.0	True
+primary_cancer	endothelial cell of vascular tree	61	2	5.030697511541365	3.508771929824561	0.0	5.820573697588774	True
+primary_cancer	endothelial cell of venule	56	1	4.358254565499451	16.025641025641026	0.0	5.855809003221008	False
+primary_cancer	endothelial tip cell	54	1	4.779777157133713	17.15686274509804	0.0	5.76753113392682	False
+primary_cancer	enteric neuron	1	1	0.0	0.0	0.0	0.0	False
+primary_cancer	enterocyte	66	2	0.0	0.0	0.0	0.0	True
+primary_cancer	enteroendocrine cell	79	2	0.0	0.0	0.0	0.0	True
+primary_cancer	enteroendocrine cell of colon	9	1	0.0	0.0	0.0	0.0	False
+primary_cancer	enteroglial cell	15	1	0.0	0.0	0.0	0.0	False
+primary_cancer	eosinophil	4	1	0.0	0.0	0.0	0.0	False
+primary_cancer	epithelial cell	182	6	0.0	0.0	0.0	2.4587219583517372	True
+primary_cancer	epithelial cell of lower respiratory tract	5	1	0.0	0.0	0.0	0.0	False
+primary_cancer	epithelial cell of lung	133	2	0.0	0.0	0.0	0.1491445763678486	True
+primary_cancer	epithelial cell of prostate	24	1	0.0	0.0	0.0	0.0	False
+primary_cancer	epithelial cell of proximal tubule	10	1	0.0	0.0	0.0	0.0	False
+primary_cancer	epithelial cell of proximal tubule segment 1	5	1	0.0	0.0	0.0	0.0	False
+primary_cancer	epithelial cell of proximal tubule segment 3	5	1	0.0	0.0	0.0	0.0	False
+primary_cancer	erythrocyte	8	2	0.0	0.0	0.0	0.0	True
+primary_cancer	exhausted T cell	53	1	0.0	0.0	0.0	0.0	False
+primary_cancer	fallopian tube secretory epithelial cell	16	1	0.8968807207129245	0.7111597374179431	0.45133979986519285	1.44974031232832	False
+primary_cancer	follicular dendritic cell	1	1	0.0	0.0	0.0	0.0	False
+primary_cancer	foveolar cell of stomach	28	1	0.0	0.0	0.0	0.0	False
+primary_cancer	gamma-delta T cell	107	3	0.0	0.0	0.0	0.0	True
+primary_cancer	gastrointestinal tract (lamina propria) macrophage	28	1	3.8077459669260785	4.848484848484849	0.0	5.682748417655839	False
+primary_cancer	germinal center B cell	89	2	0.0	0.0	0.0	0.0	True
+primary_cancer	glandular secretory epithelial cell	27	1	0.0	0.0	0.0	0.0	False
+primary_cancer	glial cell	24	1	0.0	0.0	0.0	0.0	False
+primary_cancer	goblet cell	60	2	0.0	0.0	0.0	0.0	True
+primary_cancer	granulocyte	60	2	0.0	0.0	0.0	0.0	True
+primary_cancer	group 3 innate lymphoid cell	86	2	0.0	0.0	0.0	0.0	True
+primary_cancer	gut absorptive cell	5	1	0.0	0.0	0.0	0.0	False
+primary_cancer	helper T cell	8	1	4.440921529149772	9.202508960573477	4.371461850351842	4.757899998325556	False
+primary_cancer	hepatocyte	6	1	2.0765128295146535	4.221722669434902	0.4760954364240233	3.495707967988411	False
+primary_cancer	innate lymphoid cell	18	2	0.0	0.0	0.0	4.197485592830741	True
+primary_cancer	intestinal crypt stem cell	8	1	0.0	0.0	0.0	0.36413829523044894	False
+primary_cancer	intestinal crypt stem cell of colon	26	2	0.0	0.0	0.0	0.0	True
+primary_cancer	intestinal enteroendocrine cell	4	1	0.0	0.0	0.0	0.0	False
+primary_cancer	intestinal epithelial cell	52	2	0.0	0.0	0.0	0.0	True
+primary_cancer	intestine goblet cell	30	1	0.0	0.0	0.0	0.0	False
+primary_cancer	ionocyte	2	1	0.0	0.0	0.0	0.0	False
+primary_cancer	keratinocyte	1	1	0.7844467322453057	0.3367003367003367	0.7844467322453057	0.7844467322453057	False
+primary_cancer	kidney cell	7	1	0.0	0.0	0.0	2.9813065798058807	False
+primary_cancer	kidney collecting duct principal cell	6	1	0.0	0.0	0.0	0.0	False
+primary_cancer	kidney connecting tubule principal cell	1	1	0.0	0.0	0.0	0.0	False
+primary_cancer	kidney distal convoluted tubule epithelial cell	2	1	0.0	0.0	0.0	0.0	False
+primary_cancer	kidney loop of Henle ascending limb epithelial cell	7	1	0.0	0.0	0.0	0.0	False
+primary_cancer	kidney loop of Henle thick ascending limb epithelial cell	3	1	0.0	0.0	0.0	0.0	False
+primary_cancer	kidney pelvis urothelial cell	1	1	0.0	0.0	0.0	0.0	False
+primary_cancer	luminal cell of prostate epithelium	24	1	0.0	0.0	0.0	0.0	False
+primary_cancer	luminal epithelial cell of mammary gland	25	2	0.0	0.0	0.0	0.06983617040015555	True
+primary_cancer	lung macrophage	6	1	0.0	0.0	0.0	0.0	False
+primary_cancer	lung pericyte	8	1	0.0	0.0	0.0	0.0	False
+primary_cancer	lymphocyte	9	2	0.0	0.0	0.0	0.2763534805433121	True
+primary_cancer	macrophage	662	16	0.0	0.0	0.0	0.3377139761468036	True
+primary_cancer	malignant cell	624	8	0.6834429562833533	0.41383965224574504	0.0	2.4107748718428605	True
+primary_cancer	mammary gland epithelial cell	20	1	0.35487853814608494	0.44976391130237287	0.05452732545120205	1.1846693521410412	False
+primary_cancer	mast cell	528	20	0.0	0.0	0.0	0.0	True
+primary_cancer	mature B cell	58	1	0.0	0.0	0.0	0.0	False
+primary_cancer	mature NK T cell	109	6	0.0	0.0	0.0	0.0	True
+primary_cancer	mature T cell	196	1	0.0	0.0	0.0	0.0	False
+primary_cancer	mature alpha-beta T cell	10	1	0.0	0.0	0.0	0.0	False
+primary_cancer	mature conventional dendritic cell	62	1	0.0	0.0	0.0	0.0	False
+primary_cancer	megakaryocyte	12	2	0.0	0.0	0.0	0.0	True
+primary_cancer	melanocyte	3	1	0.0	0.0	0.0	0.6874236444931309	False
+primary_cancer	melanocyte of skin	8	1	6.5321902217730115	28.60525091954509	6.407811068320981	6.722947473808949	False
+primary_cancer	memory B cell	111	3	0.0	0.0	0.0	0.0	True
+primary_cancer	mesothelial cell	37	3	0.0	0.0	0.0	0.0	True
+primary_cancer	microglial cell	211	2	0.0	0.0	0.0	0.0	True
+primary_cancer	monocyte	355	9	0.0	0.0	0.0	0.0	True
+primary_cancer	mononuclear phagocyte	78	1	0.5043787257729749	0.09633911368015415	0.0	4.50232063261125	False
+primary_cancer	mucosal invariant T cell	43	2	0.0	0.0	0.0	0.0	True
+primary_cancer	mucous neck cell of gastric gland	27	1	0.0	0.0	0.0	0.0	False
+primary_cancer	multiciliated columnar cell of tracheobronchial tree	7	1	0.0	0.0	0.0	0.0	False
+primary_cancer	multiciliated epithelial cell	111	2	0.0	0.0	0.0	0.0	True
+primary_cancer	mural cell	147	2	0.0	0.0	0.0	4.9856830228621645	True
+primary_cancer	myelinating Schwann cell	11	1	0.0	0.0	0.0	0.0	False
+primary_cancer	myeloid cell	291	10	0.0	0.0	0.0	0.43700288265074766	True
+primary_cancer	myeloid dendritic cell	47	1	0.0	0.0	0.0	0.0	False
+primary_cancer	myeloid leukocyte	1	1	0.0	0.0	0.0	0.0	False
+primary_cancer	myoepithelial cell	5	1	0.0	0.0	0.0	2.04133916976781	False
+primary_cancer	naive B cell	50	3	0.0	0.0	0.0	0.0	True
+primary_cancer	naive T cell	65	3	0.0	0.0	0.0	0.0	True
+primary_cancer	naive thymus-derived CD4-positive, alpha-beta T cell	42	2	0.0	0.0	0.0	0.0	True
+primary_cancer	naive thymus-derived CD8-positive, alpha-beta T cell	44	4	0.0	0.0	0.0	0.0	True
+primary_cancer	nasal mucosa goblet cell	4	1	0.0	0.0	0.0	0.12893264819242367	False
+primary_cancer	natural T-regulatory cell	7	1	0.0	0.0	0.0	2.188849471373265	False
+primary_cancer	natural killer cell	458	12	0.0	0.0	0.0	0.0	True
+primary_cancer	neoplastic cell	11	3	0.0	0.0	0.0	1.8976899820893889	True
+primary_cancer	neuroblast (sensu Vertebrata)	12	2	1.1352869583482377	0.7079169798016348	0.9308386287776995	2.18385017587063	True
+primary_cancer	neuron	29	2	0.0	0.0	0.0	2.4106394912089293	True
+primary_cancer	neutrophil	178	5	0.0	0.0	0.0	0.0	True
+primary_cancer	neutrophil progenitor cell	1	1	0.0	0.0	0.0	0.0	False
+primary_cancer	non-classical monocyte	115	3	0.0	0.0	0.0	0.0	True
+primary_cancer	oligodendrocyte	175	3	0.0	0.0	0.0	1.166747863958103	True
+primary_cancer	oligodendrocyte precursor cell	80	3	0.0	0.0	0.0	0.3129614361318476	True
+primary_cancer	oral mucosa squamous cell	12	1	3.453406373819781	1.1317110309045793	0.6640133955197525	3.653645581181574	False
+primary_cancer	paneth cell	1	1	0.0	0.0	0.0	0.0	False
+primary_cancer	parietal cell	19	1	0.0	0.0	0.0	0.0	False
+primary_cancer	peptic cell	19	1	0.0	0.0	0.0	0.0	False
+primary_cancer	pericyte	326	11	1.4444198921404872	1.0582306830907053	0.0	5.122690836959044	True
+primary_cancer	perivascular cell	5	1	1.89144971681779	1.8181818181818181	0.0	4.666189673062937	False
+primary_cancer	plasma cell	306	15	0.0	0.0	0.0	0.0	True
+primary_cancer	plasmablast	40	2	0.0	0.0	0.0	0.0	True
+primary_cancer	plasmacytoid dendritic cell	359	10	0.0	0.0	0.0	0.0	True
+primary_cancer	plasmacytoid dendritic cell, human	45	2	0.0	0.0	0.0	0.0	True
+primary_cancer	podocyte	5	1	0.0	0.0	0.0	0.0	False
+primary_cancer	prostate neuroendocrine cell	10	1	0.0	0.0	0.0	0.0	False
+primary_cancer	pulmonary alveolar epithelial cell	2	1	0.0	0.0	0.0	0.0	False
+primary_cancer	pulmonary alveolar type 1 cell	95	2	0.0	0.0	0.0	0.0	True
+primary_cancer	pulmonary alveolar type 2 cell	121	2	0.0	0.0	0.0	0.0	True
+primary_cancer	pulmonary artery endothelial cell	85	2	0.0	0.0	0.0	0.0	True
+primary_cancer	radial glial cell	67	1	0.0	0.0	0.0	0.0	False
+primary_cancer	regulatory T cell	241	8	0.0	0.0	0.0	0.0	True
+primary_cancer	renal alpha-intercalated cell	3	1	0.0	0.0	0.0	0.0	False
+primary_cancer	renal beta-intercalated cell	2	1	0.0	0.0	0.0	0.0	False
+primary_cancer	respiratory basal cell	8	1	0.0	0.0	0.0	0.0	False
+primary_cancer	respiratory tract hillock cell	6	1	0.0	0.0	0.0	0.0	False
+primary_cancer	secretory cell	19	1	0.0	0.0	0.0	0.22538434516439068	False
+primary_cancer	smooth muscle cell	130	4	0.0	0.0	0.0	2.9867994765271124	True
+primary_cancer	smooth muscle cell of prostate	12	1	0.0	0.0	0.0	0.0	False
+primary_cancer	stem cell	62	1	0.4905900252607376	0.9143471830038994	0.11865368672023333	1.0887609094621795	False
+primary_cancer	stromal cell	44	1	0.0	0.0	0.0	7.701242112473115	False
+primary_cancer	suprabasal keratinocyte	8	1	5.8005883086450645	23.272336945409936	4.0692980944960935	6.034056499006292	False
+primary_cancer	tracheobronchial goblet cell	2	1	0.0	0.0	0.0	0.0	False
+primary_cancer	tracheobronchial smooth muscle cell	8	1	0.0	0.0	0.0	0.0	False
+primary_cancer	transit amplifying cell	13	2	0.0	0.0	0.0	0.7685170821116706	True
+primary_cancer	tuft cell	5	1	0.0	0.0	0.0	0.0	False
+primary_cancer	tuft cell of colon	73	2	0.0	0.0	0.0	0.0	True
+primary_cancer	tuft cell of small intestine	2	1	0.0	0.0	0.0	0.0	False
+primary_cancer	type EC enteroendocrine cell	21	1	0.0	0.0	0.0	0.0	False
+primary_cancer	type G enteroendocrine cell	13	1	0.0	0.0	0.0	0.0	False
+primary_cancer	type X enteroendocrine cell	13	1	0.0	0.0	0.0	0.0	False
+primary_cancer	unknown	104	8	0.0	0.0	0.0	1.4796552078846952	True
+primary_cancer	unswitched memory B cell	7	1	0.0	0.0	0.0	0.0	False
+primary_cancer	vascular associated smooth muscle cell	114	5	1.164139762805758	0.6009572132858325	0.0	2.8437791789586884	True
+primary_cancer	vascular lymphangioblast	4	1	6.058661456663433	21.13095238095238	4.257059427397849	6.66972344184957	False
+primary_cancer	vein endothelial cell	241	5	3.584509308107311	4.761904761904762	0.0	4.9254153110417205	True

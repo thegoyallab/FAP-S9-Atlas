@@ -1,0 +1,5 @@
+x	y	n	rho_within_cancer_adjusted	p
+FAP_fraction	core_remodeling_score	480	0.16354918050114328	0.00032055523643968585
+FAP_fraction	accessory_score	480	-0.0292543548429387	0.5225649814360741
+FAP_log2_cpm	core_remodeling_score	480	0.11734491035117339	0.010079492462380003
+FAP_log2_cpm	accessory_score	480	-0.09623105440079259	0.03505578368553889

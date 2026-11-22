@@ -2,36 +2,32 @@
 
 Reproducibility release for the manuscript:
 
-**Single-cell, spatial and evolutionary profiling of human S9 peptidases reveals FAP-dominant fibroblast remodeling in breast cancer**
+**Evolutionary specialization and single-cell mapping reveal conserved FAP-dominant stromal remodeling across human cancers**
 
 ## What is included
-- frozen analysis scripts used for the final donor-collapsed single-cell analysis;
-- frozen patient-level spatial validation scripts;
-- final evolutionary figure-generation scripts;
-- source-data tables supporting the principal numerical claims and main figures;
-- scripts that regenerate the manuscript figures from the frozen source data;
+- frozen scripts for the complete 1,086-dataset donor-aware human S9 atlas;
+- donor-collapsed FAP/DPP4 fibroblast-state analyses;
+- patient-level spatial validation;
+- expanded FAP/DPP4 and S9-family evolutionary analyses;
+- final targetability analyses covering organ-concordant tumor-normal enrichment, conserved cross-cancer state programs, malignant-versus-benign remodeling, abundance-versus-state coupling and cellular selectivity;
+- compact source-data tables underlying main Figures 1-8 and target-biology Supplementary Figures S8-S9;
 - environment/version captures and analysis-boundary documentation.
 
-## What is not included
-Raw CELLxGENE, GEO, UniProt, or reference-genome data are not redistributed. Publication-quality rendered figure files are supplied with the manuscript submission package rather than duplicated here. Obtain raw third-party datasets from their original public repositories using the accessions listed in `docs/DATA_ACCESSIONS.md`.
+## Analysis design
+1. **Family atlas:** nine human S9-family genes across all 1,086 eligible CELLxGENE Census datasets.
+2. **Evolution:** family phylogeny, FAP-DPP4 topology testing, synteny, ancestral reconstruction, FAP-stem codon models and sequence-expression coupling.
+3. **Fibroblast landscape:** exact-tissue donor-level FAP/DPP4 states across 114 replicated contexts.
+4. **Breast and spatial validation:** within-donor breast-state contrasts plus 22-patient TNBC spatial validation.
+5. **Cross-cancer program:** paired FAP-only versus DPP4-only analysis across nine organ-concordant cancer groups / 270 donors.
+6. **Targetability:** matched tumor-normal enrichment, nonmalignant remodeling, cellular selectivity and an explicitly non-composite target-biology map.
 
-## Main analysis design
-1. **Family atlas:** nine human S9-family genes across the complete 1,086-dataset CELLxGENE Census extraction.
-2. **Fibroblast analysis:** exact-tissue donor-level FAP/DPP4 states after assay/suspension collapse; 114 replicated contexts.
-3. **Breast cancer:** within-donor FAP-only vs DPP4-only module contrasts, replicated across three collections.
-4. **Spatial validation:** 22 TNBC patients / 43 Visium sections; patient is the inferential unit.
-5. **Evolution:** phylogeny, topology testing, synteny, ancestral reconstruction, codon models and sequence-expression coupling.
+## Important boundaries
+Raw third-party CELLxGENE, GEO, UniProt and reference-genome datasets are not redistributed. Some frozen analysis scripts retain local project paths for audit fidelity; adjust those paths for a new environment. Transcript abundance is not treated as equivalent to surface-protein density, PET uptake, ligand binding or absorbed radioligand dose. The integrated targetability map is not a clinical ranking.
 
-## Reproducibility cautions
-Read `docs/REPRODUCIBILITY.md` and `docs/ANALYSIS_BOUNDARIES.md` before reuse. Frozen scripts retain some local project paths for audit fidelity; update those paths for your environment.
-
-## Release status
-This repository is the public reproducibility release accompanying the manuscript. The final manuscript author list and code/data license remain to be confirmed by the authors before archival DOI minting.
-
+Read `docs/REPRODUCIBILITY.md`, `docs/ANALYSIS_BOUNDARIES.md`, and `docs/TARGETABILITY_ANALYSIS.md` before reuse.
 
 ## Repository
 https://github.com/thegoyallab/FAP-S9-Atlas
 
-
-## Expanded evolution package
-The repository now includes an expanded evolution evidence set under `evolution/`, including final alignments, IQ-TREE trees/reports, topology tests, synteny/reconciliation tables, ancestral-state summaries, PAML branch-site outputs, structural-distance tables, and vector sources for Figure 5 panels A-G and Supplementary Figures S1-S7. A single downloadable archive of this complete evidence set is provided at `archives/Evolution_Reproducibility_FINAL.tar.gz`; its file-level contents are listed in `archives/EVOLUTION_ARCHIVE_CONTENTS.txt`.
+## License status
+No code/data license has been assigned in this frozen release. See `LICENSE_DECISION_REQUIRED.md`.

@@ -1,0 +1,12 @@
+tissue_general	tissue	min_paired	max_paired	n_modules	n_collections
+adrenal gland	adrenal gland	9	9	8	1
+breast	breast	114	114	8	5
+digestive system	oral cavity	5	5	8	1
+digestive system	oropharynx	6	6	8	1
+large intestine	colorectum	28	28	8	2
+lung	lung	65	65	8	4
+ovary	left ovary	9	9	8	1
+ovary	ovary	9	9	8	1
+ovary	right ovary	7	7	8	1
+prostate gland	prostate gland	14	14	8	1
+stomach	stomach	8	8	8	1

@@ -1,0 +1,18 @@
+context	cell_type	n_donors	n_collections	median_log2_cpm	median_pct_detected	q25_log2_cpm	q75_log2_cpm	robust
+primary_cancer	endothelial cell of artery	136	3	5.477443067403955	16.666666666666668	0.0	6.297232430306421	True
+primary_cancer	endothelial cell of vascular tree	61	2	5.030697511541365	3.508771929824561	0.0	5.820573697588774	True
+primary_cancer	endothelial cell	484	19	4.376097850648051	8.558906396744234	0.0	5.526598771992058	True
+primary_cancer	vein endothelial cell	241	5	3.584509308107311	4.761904761904762	0.0	4.9254153110417205	True
+primary_cancer	blood vessel endothelial cell	25	2	2.6432408956661737	4.270462633451957	0.0	4.54757619505449	True
+primary_cancer	pericyte	326	11	1.4444198921404872	1.0582306830907053	0.0	5.122690836959044	True
+primary_cancer	vascular associated smooth muscle cell	114	5	1.164139762805758	0.6009572132858325	0.0	2.8437791789586884	True
+primary_cancer	malignant cell	624	8	0.6834429562833533	0.41383965224574504	0.0	2.4107748718428605	True
+primary_cancer	B cell	524	18	0.0	0.0	0.0	0.0	True
+primary_cancer	macrophage	662	16	0.0	0.0	0.0	0.3377139761468036	True
+primary_cancer	epithelial cell	182	6	0.0	0.0	0.0	2.4587219583517372	True
+primary_cancer	T cell	366	15	0.0	0.0	0.0	0.907678170056301	True
+primary_cancer	capillary endothelial cell	204	6	0.0	0.0	0.0	3.8531588950728795	True
+primary_cancer	neoplastic cell	11	3	0.0	0.0	0.0	1.8976899820893889	True
+primary_cancer	natural killer cell	458	12	0.0	0.0	0.0	0.0	True
+primary_cancer	monocyte	355	9	0.0	0.0	0.0	0.0	True
+primary_cancer	smooth muscle cell	130	4	0.0	0.0	0.0	2.9867994765271124	True
