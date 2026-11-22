@@ -2,9 +2,10 @@ Repository owner: thegoyallab
 Repository name: FAP-S9-Atlas
 Public URL: https://github.com/thegoyallab/FAP-S9-Atlas
 Branch: main
-Initial frozen analysis commit: 9cacc29
-Local metadata commit before GitHub publication: 7616a42
-GitHub complete-release commit: c1d5045da8dd91e5307a5e8ca7174cc6da24d2c3
+Initial complete-release commit: c1d5045da8dd91e5307a5e8ca7174cc6da24d2c3
+Evolution expansion: full 129-file evidence set archived at archives/Evolution_Reproducibility_FINAL.tar.gz
+Evolution archive SHA256: c3d4fbfff5d819ecc1acfae4ae3a606b6cb80c5c205bf9db3feeed9ef2aaac85
+Browseable evolution assets: Figure 5 panels A-G, Supplementary Figures S1-S7, figure legends/source maps/table notes
 Commit identity: Thegoyallab <pankaj_bio@curaj.ac.in>
 Repository visibility: public
 Publication status: COMPLETE

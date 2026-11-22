@@ -31,3 +31,7 @@ This repository is the public reproducibility release accompanying the manuscrip
 
 ## Repository
 https://github.com/thegoyallab/FAP-S9-Atlas
+
+
+## Expanded evolution package
+The repository now includes an expanded evolution evidence set under `evolution/`, including final alignments, IQ-TREE trees/reports, topology tests, synteny/reconciliation tables, ancestral-state summaries, PAML branch-site outputs, structural-distance tables, and vector sources for Figure 5 panels A-G and Supplementary Figures S1-S7. A single downloadable archive of this complete evidence set is provided at `archives/Evolution_Reproducibility_FINAL.tar.gz`; its file-level contents are listed in `archives/EVOLUTION_ARCHIVE_CONTENTS.txt`.
